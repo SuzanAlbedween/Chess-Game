@@ -15,5 +15,6 @@ The game includes 4 different ways to play it :
 also the user  can see the 5 best winners.
 _____________________________________________________________________________________________
 
-How to run
+How to run ?
+
 Our project was built in C# , For running the program we recommend using  Visual Studio environment and Access Database.
