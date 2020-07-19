@@ -1,0 +1,1147 @@
+C:\Users\סוזן1\Desktop\chess\chess\bin\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess\chess\bin\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\סוזן1\Desktop\chess\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\סוזן1\Desktop\chess\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\סוזן1\Desktop\chess\chess\obj\x86\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess\chess\obj\x86\Debug\chess.pdb
+C:\Users\M.S.A\Downloads\chess\chess\chess\obj\x86\Debug\chess.exe
+C:\Users\M.S.A\Downloads\chess\chess\chess\obj\x86\Debug\chess.pdb
+C:\Users\M.S.A\Downloads\chess\chess\chess\bin\Debug\chess.exe
+C:\Users\M.S.A\Downloads\chess\chess\chess\bin\Debug\chess.pdb
+C:\Users\M.S.A\Downloads\chess\chess\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+C:\Users\M.S.A\Downloads\chess\chess\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\M.S.A\Downloads\chess\chess\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\M.S.A\Downloads\chess\chess\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\M.S.A\Desktop\chess\chess\obj\x86\Debug\chess.exe
+C:\Users\M.S.A\Desktop\chess\chess\obj\x86\Debug\chess.pdb
+C:\Users\M.S.A\Desktop\chess\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+C:\Users\M.S.A\Desktop\chess\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\M.S.A\Desktop\chess\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\M.S.A\Desktop\chess\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\M.S.A\Desktop\chess\chess\bin\Debug\chess.exe
+C:\Users\M.S.A\Desktop\chess\chess\bin\Debug\chess.pdb
+C:\Users\M.S.A\Desktop\chess\chess\bin\Debug\Unit4.dll
+C:\Users\M.S.A\Desktop\chess v3\chess\obj\x86\Debug\chess.exe
+C:\Users\M.S.A\Desktop\chess v3\chess\obj\x86\Debug\chess.pdb
+C:\Users\M.S.A\Desktop\chess v3\chess\bin\Debug\chess.exe
+C:\Users\M.S.A\Desktop\chess v3\chess\bin\Debug\chess.pdb
+C:\Users\M.S.A\Desktop\chess v3\chess\bin\Debug\Unit4.dll
+C:\Users\M.S.A\Desktop\chess v3\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+C:\Users\M.S.A\Desktop\chess v3\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\M.S.A\Desktop\chess v3\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\M.S.A\Desktop\chess v3\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\M.S.A\Desktop\game\chess v4\chess\obj\x86\Debug\chess.exe
+C:\Users\M.S.A\Desktop\game\chess v4\chess\obj\x86\Debug\chess.pdb
+C:\Users\M.S.A\Desktop\game\chess v4\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+C:\Users\M.S.A\Desktop\game\chess v4\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\M.S.A\Desktop\game\chess v4\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\M.S.A\Desktop\game\chess v4\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\M.S.A\Desktop\game\chess v4\chess\bin\Debug\chess.exe
+C:\Users\M.S.A\Desktop\game\chess v4\chess\bin\Debug\chess.pdb
+C:\Users\סוזן1\Downloads\chess v5\chess v5\chess\obj\x86\Debug\chess.exe
+C:\Users\סוזן1\Downloads\chess v5\chess v5\chess\obj\x86\Debug\chess.pdb
+C:\Users\סוזן1\Downloads\chess v5\chess v5\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+C:\Users\סוזן1\Downloads\chess v5\chess v5\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\סוזן1\Downloads\chess v5\chess v5\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\סוזן1\Downloads\chess v5\chess v5\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\סוזן1\Downloads\chess v5\chess v5\chess\bin\Debug\chess.exe
+C:\Users\סוזן1\Downloads\chess v5\chess v5\chess\bin\Debug\chess.pdb
+C:\Users\M.S.A\Desktop\game\chess v6\chess v5\chess v5\chess\obj\x86\Debug\chess.exe
+C:\Users\M.S.A\Desktop\game\chess v6\chess v5\chess v5\chess\obj\x86\Debug\chess.pdb
+C:\Users\M.S.A\Desktop\game\chess v66\chess\obj\x86\Debug\chess.exe
+C:\Users\M.S.A\Desktop\game\chess v66\chess\obj\x86\Debug\chess.pdb
+C:\Users\M.S.A\Desktop\game\chess v66\chess\bin\Debug\chess.exe
+C:\Users\M.S.A\Desktop\game\chess v66\chess\bin\Debug\chess.pdb
+C:\Users\M.S.A\Desktop\game\chess v66\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+C:\Users\M.S.A\Desktop\game\chess v66\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\M.S.A\Desktop\game\chess v66\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\M.S.A\Desktop\game\chess v66\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\סוזן1\Desktop\chess v11\chess v11\chess\obj\x86\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v11\chess v11\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+C:\Users\סוזן1\Desktop\chess v11\chess v11\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\סוזן1\Desktop\chess v11\chess v11\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\סוזן1\Desktop\chess v11\chess v11\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\סוזן1\Desktop\chess v11\chess v11\chess\bin\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v11\chess v11\chess\bin\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v11\chess v11\chess\obj\x86\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v12\chess v12\chess\obj\x86\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v12\chess v12\chess\obj\x86\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v12\chess v12\chess\bin\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v12\chess v12\chess\bin\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v12\chess v12\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+C:\Users\סוזן1\Desktop\chess v12\chess v12\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\סוזן1\Desktop\chess v12\chess v12\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\סוזן1\Desktop\chess v12\chess v12\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\סוזן1\Desktop\chess v13\chess v12\chess\obj\x86\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v13\chess v12\chess\obj\x86\Debug\chess.pdb
+C:\Users\M.S.A\Downloads\chess v16\chess v16\chess v16\chess\obj\x86\Debug\chess.exe
+C:\Users\M.S.A\Downloads\chess v16\chess v16\chess v16\chess\obj\x86\Debug\chess.pdb
+C:\Users\M.S.A\Downloads\chess v16\chess v16\chess v16\chess\bin\Debug\chess.exe
+C:\Users\M.S.A\Downloads\chess v16\chess v16\chess v16\chess\bin\Debug\chess.pdb
+C:\Users\M.S.A\Downloads\chess v16\chess v16\chess v16\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+C:\Users\M.S.A\Downloads\chess v16\chess v16\chess v16\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\M.S.A\Downloads\chess v16\chess v16\chess v16\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\M.S.A\Downloads\chess v16\chess v16\chess v16\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\M.S.A\Downloads\chess v16\chess v16\chess v18\chess\obj\x86\Debug\chess.exe
+C:\Users\M.S.A\Downloads\chess v16\chess v16\chess v18\chess\obj\x86\Debug\chess.pdb
+C:\Users\M.S.A\Downloads\chess v16\chess v16\chess v18\chess\bin\Debug\chess.exe
+C:\Users\M.S.A\Downloads\chess v16\chess v16\chess v18\chess\bin\Debug\chess.pdb
+C:\Users\M.S.A\Downloads\chess v16\chess v16\chess v18\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+C:\Users\M.S.A\Downloads\chess v16\chess v16\chess v18\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\M.S.A\Downloads\chess v16\chess v16\chess v18\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\M.S.A\Downloads\chess v16\chess v16\chess v18\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\סוזן1\Desktop\chess v19\chess v19\chess\obj\x86\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v19\chess v19\chess\obj\x86\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v19\chess v19\chess\bin\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v19\chess v19\chess\bin\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v19\chess v19\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+C:\Users\סוזן1\Desktop\chess v19\chess v19\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\סוזן1\Desktop\chess v19\chess v19\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\סוזן1\Desktop\chess v19\chess v19\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\M.S.A\Downloads\chess v20\chess v20\chess v20\chess\obj\x86\Debug\chess.exe
+C:\Users\M.S.A\Downloads\chess v20\chess v20\chess v20\chess\obj\x86\Debug\chess.pdb
+C:\Users\M.S.A\Downloads\chess v20\chess v20\chess v20\chess\bin\Debug\chess.exe
+C:\Users\M.S.A\Downloads\chess v20\chess v20\chess v20\chess\bin\Debug\chess.pdb
+C:\Users\M.S.A\Downloads\chess v20\chess v20\chess v20\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+C:\Users\M.S.A\Downloads\chess v20\chess v20\chess v20\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\M.S.A\Downloads\chess v20\chess v20\chess v20\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\M.S.A\Downloads\chess v20\chess v20\chess v20\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\סוזן1\Desktop\chess v21\chess v21\chess\obj\x86\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v21\chess v21\chess\obj\x86\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v21\chess v21\chess\bin\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v21\chess v21\chess\bin\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v21\chess v21\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+C:\Users\סוזן1\Desktop\chess v21\chess v21\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\סוזן1\Desktop\chess v21\chess v21\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\סוזן1\Desktop\chess v21\chess v21\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\סוזן1\Desktop\chess v22\chess v22\chess\obj\x86\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v22\chess v22\chess\obj\x86\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v22\chess v22\chess\bin\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v22\chess v22\chess\bin\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v22\chess v22\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+C:\Users\סוזן1\Desktop\chess v22\chess v22\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\סוזן1\Desktop\chess v22\chess v22\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\סוזן1\Desktop\chess v22\chess v22\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\סוזן1\Desktop\chess v23\chess v23\chess\obj\x86\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v23\chess v23\chess\obj\x86\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v23\chess v23\chess\bin\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v23\chess v23\chess\bin\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v23\chess v23\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+C:\Users\סוזן1\Desktop\chess v23\chess v23\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\סוזן1\Desktop\chess v23\chess v23\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\סוזן1\Desktop\chess v23\chess v23\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\סוזן1\Desktop\chess v24\chess v23\chess\obj\x86\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v24\chess v23\chess\obj\x86\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v24\chess v23\chess\bin\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v24\chess v23\chess\bin\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v24\chess v23\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+C:\Users\סוזן1\Desktop\chess v24\chess v23\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\סוזן1\Desktop\chess v24\chess v23\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\סוזן1\Desktop\chess v24\chess v23\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\סוזן1\Desktop\chess v25\chess v25\chess\obj\x86\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v25\chess v25\chess\obj\x86\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v25\chess v25\chess\bin\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v25\chess v25\chess\bin\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v25\chess v25\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+C:\Users\סוזן1\Desktop\chess v25\chess v25\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\סוזן1\Desktop\chess v25\chess v25\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\סוזן1\Desktop\chess v25\chess v25\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\סוזן1\Desktop\chess v25\chess v25\chess\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\סוזן1\Desktop\chess v25\chess v25\chess\obj\x86\Debug\chess.csproj.ResolveComReference.cache
+C:\Users\M.S.A\Downloads\chess v26\chess v26\chess v25\chess\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\M.S.A\Downloads\chess v26\chess v26\chess v25\chess\obj\x86\Debug\chess.csproj.ResolveComReference.cache
+C:\Users\M.S.A\Downloads\chess v26\chess v26\chess v25\chess\obj\x86\Debug\chess.exe
+C:\Users\M.S.A\Downloads\chess v26\chess v26\chess v25\chess\obj\x86\Debug\chess.pdb
+C:\Users\M.S.A\Downloads\chess v26\chess v26\chess v25\chess\bin\Debug\chess.exe
+C:\Users\M.S.A\Downloads\chess v26\chess v26\chess v25\chess\bin\Debug\chess.pdb
+C:\Users\M.S.A\Downloads\chess v26\chess v26\chess v25\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+C:\Users\M.S.A\Downloads\chess v26\chess v26\chess v25\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\M.S.A\Downloads\chess v26\chess v26\chess v25\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\M.S.A\Downloads\chess v26\chess v26\chess v25\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\סוזן1\Desktop\chess v27\chess v27\chess v25\chess\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\סוזן1\Desktop\chess v27\chess v27\chess v25\chess\obj\x86\Debug\chess.csproj.ResolveComReference.cache
+C:\Users\סוזן1\Desktop\chess v27\chess v27\chess v25\chess\obj\x86\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v27\chess v27\chess v25\chess\obj\x86\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v27\chess v27\chess v25\chess\bin\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v27\chess v27\chess v25\chess\bin\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v27\chess v27\chess v25\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+C:\Users\סוזן1\Desktop\chess v27\chess v27\chess v25\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\סוזן1\Desktop\chess v27\chess v27\chess v25\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\סוזן1\Desktop\chess v27\chess v27\chess v25\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\סוזן1\Desktop\chess v28\chess v27\chess v25\chess\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\סוזן1\Desktop\chess v28\chess v27\chess v25\chess\obj\x86\Debug\chess.csproj.ResolveComReference.cache
+C:\Users\סוזן1\Desktop\chess v28\chess v27\chess v25\chess\obj\x86\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v28\chess v27\chess v25\chess\obj\x86\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v28\chess v27\chess v25\chess\bin\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v28\chess v27\chess v25\chess\bin\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v28\chess v27\chess v25\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+C:\Users\סוזן1\Desktop\chess v28\chess v27\chess v25\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\סוזן1\Desktop\chess v28\chess v27\chess v25\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\סוזן1\Desktop\chess v28\chess v27\chess v25\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\סוזן1\Desktop\chess v29\chess v27\chess v25\chess\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\סוזן1\Desktop\chess v29\chess v27\chess v25\chess\obj\x86\Debug\chess.csproj.ResolveComReference.cache
+C:\Users\סוזן1\Desktop\chess v29\chess v27\chess v25\chess\obj\x86\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v29\chess v27\chess v25\chess\obj\x86\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v29\chess v27\chess v25\chess\bin\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v29\chess v27\chess v25\chess\bin\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v29\chess v27\chess v25\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+C:\Users\סוזן1\Desktop\chess v29\chess v27\chess v25\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\סוזן1\Desktop\chess v29\chess v27\chess v25\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\סוזן1\Desktop\chess v29\chess v27\chess v25\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\סוזן1\Desktop\chess v30\chess v27\chess v25\chess\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\סוזן1\Desktop\chess v30\chess v27\chess v25\chess\obj\x86\Debug\chess.csproj.ResolveComReference.cache
+C:\Users\סוזן1\Desktop\chess v30\chess v27\chess v25\chess\obj\x86\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v30\chess v27\chess v25\chess\obj\x86\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v30\chess v27\chess v25\chess\bin\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v30\chess v27\chess v25\chess\bin\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v30\chess v27\chess v25\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+C:\Users\סוזן1\Desktop\chess v30\chess v27\chess v25\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\סוזן1\Desktop\chess v30\chess v27\chess v25\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\סוזן1\Desktop\chess v30\chess v27\chess v25\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\סוזן1\Desktop\chess v31\chess v27\chess v25\chess\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\סוזן1\Desktop\chess v31\chess v27\chess v25\chess\obj\x86\Debug\chess.csproj.ResolveComReference.cache
+C:\Users\סוזן1\Desktop\chess v31\chess v27\chess v25\chess\obj\x86\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v31\chess v27\chess v25\chess\obj\x86\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v31\chess v27\chess v25\chess\bin\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v31\chess v27\chess v25\chess\bin\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v31\chess v27\chess v25\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+C:\Users\סוזן1\Desktop\chess v31\chess v27\chess v25\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\סוזן1\Desktop\chess v31\chess v27\chess v25\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\סוזן1\Desktop\chess v31\chess v27\chess v25\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\M.S.A\Downloads\chess v32 (1)\chess v32\chess v27\chess v25\chess\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\M.S.A\Downloads\chess v32 (1)\chess v32\chess v27\chess v25\chess\obj\x86\Debug\chess.csproj.ResolveComReference.cache
+C:\Users\M.S.A\Downloads\chess v32 (1)\chess v32\chess v27\chess v25\chess\obj\x86\Debug\chess.exe
+C:\Users\M.S.A\Downloads\chess v32 (1)\chess v32\chess v27\chess v25\chess\obj\x86\Debug\chess.pdb
+C:\Users\M.S.A\Downloads\chess v32 (1)\chess v32\chess v27\chess v25\chess\bin\Debug\chess.exe
+C:\Users\M.S.A\Downloads\chess v32 (1)\chess v32\chess v27\chess v25\chess\bin\Debug\chess.pdb
+C:\Users\M.S.A\Downloads\chess v32 (1)\chess v32\chess v27\chess v25\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+C:\Users\M.S.A\Downloads\chess v32 (1)\chess v32\chess v27\chess v25\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\M.S.A\Downloads\chess v32 (1)\chess v32\chess v27\chess v25\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\M.S.A\Downloads\chess v32 (1)\chess v32\chess v27\chess v25\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\M.S.A\Downloads\chess v32 (1)\chess v32\chess v27\chess v25\chess\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\M.S.A\Downloads\chess v34\chess v32\chess v27\chess v25\chess\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\M.S.A\Downloads\chess v34\chess v32\chess v27\chess v25\chess\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\M.S.A\Downloads\chess v34\chess v32\chess v27\chess v25\chess\obj\x86\Debug\chess.csproj.ResolveComReference.cache
+C:\Users\M.S.A\Downloads\chess v34\chess v32\chess v27\chess v25\chess\obj\x86\Debug\chess.exe
+C:\Users\M.S.A\Downloads\chess v34\chess v32\chess v27\chess v25\chess\obj\x86\Debug\chess.pdb
+C:\Users\M.S.A\Downloads\chess v34\chess v32\chess v27\chess v25\chess\bin\Debug\chess.exe
+C:\Users\M.S.A\Downloads\chess v34\chess v32\chess v27\chess v25\chess\bin\Debug\chess.pdb
+C:\Users\M.S.A\Downloads\chess v34\chess v32\chess v27\chess v25\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+C:\Users\M.S.A\Downloads\chess v34\chess v32\chess v27\chess v25\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\M.S.A\Downloads\chess v34\chess v32\chess v27\chess v25\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\M.S.A\Downloads\chess v34\chess v32\chess v27\chess v25\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\סוזן1\Desktop\chess v37\chess v37\chess v32\chess v27\chess v25\chess\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\סוזן1\Desktop\chess v37\chess v37\chess v32\chess v27\chess v25\chess\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\סוזן1\Desktop\chess v37\chess v37\chess v32\chess v27\chess v25\chess\obj\x86\Debug\chess.csproj.ResolveComReference.cache
+C:\Users\סוזן1\Desktop\chess v37\chess v37\chess v32\chess v27\chess v25\chess\obj\x86\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v37\chess v37\chess v32\chess v27\chess v25\chess\obj\x86\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v37\chess v37\chess v32\chess v27\chess v25\chess\bin\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v37\chess v37\chess v32\chess v27\chess v25\chess\bin\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v37\chess v37\chess v32\chess v27\chess v25\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+C:\Users\סוזן1\Desktop\chess v37\chess v37\chess v32\chess v27\chess v25\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\סוזן1\Desktop\chess v37\chess v37\chess v32\chess v27\chess v25\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\סוזן1\Desktop\chess v37\chess v37\chess v32\chess v27\chess v25\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\סוזן1\Desktop\chess v38\chess v37\chess v32\chess v27\chess v25\chess\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\סוזן1\Desktop\chess v38\chess v37\chess v32\chess v27\chess v25\chess\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\סוזן1\Desktop\chess v38\chess v37\chess v32\chess v27\chess v25\chess\obj\x86\Debug\chess.csproj.ResolveComReference.cache
+C:\Users\סוזן1\Desktop\chess v38\chess v37\chess v32\chess v27\chess v25\chess\obj\x86\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v38\chess v37\chess v32\chess v27\chess v25\chess\obj\x86\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v38\chess v37\chess v32\chess v27\chess v25\chess\bin\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v38\chess v37\chess v32\chess v27\chess v25\chess\bin\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v38\chess v37\chess v32\chess v27\chess v25\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+C:\Users\סוזן1\Desktop\chess v38\chess v37\chess v32\chess v27\chess v25\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\סוזן1\Desktop\chess v38\chess v37\chess v32\chess v27\chess v25\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\סוזן1\Desktop\chess v38\chess v37\chess v32\chess v27\chess v25\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\סוזן1\Desktop\chess v39\chess v37\chess v32\chess v27\chess v25\chess\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\סוזן1\Desktop\chess v39\chess v37\chess v32\chess v27\chess v25\chess\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\סוזן1\Desktop\chess v39\chess v37\chess v32\chess v27\chess v25\chess\obj\x86\Debug\chess.csproj.ResolveComReference.cache
+C:\Users\סוזן1\Desktop\chess v39\chess v37\chess v32\chess v27\chess v25\chess\obj\x86\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v39\chess v37\chess v32\chess v27\chess v25\chess\obj\x86\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v39\chess v37\chess v32\chess v27\chess v25\chess\bin\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v39\chess v37\chess v32\chess v27\chess v25\chess\bin\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v39\chess v37\chess v32\chess v27\chess v25\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+C:\Users\סוזן1\Desktop\chess v39\chess v37\chess v32\chess v27\chess v25\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\סוזן1\Desktop\chess v39\chess v37\chess v32\chess v27\chess v25\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\סוזן1\Desktop\chess v39\chess v37\chess v32\chess v27\chess v25\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\סוזן1\Desktop\chess v40\chess v37\chess v32\chess v27\chess v25\chess\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\סוזן1\Desktop\chess v40\chess v37\chess v32\chess v27\chess v25\chess\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\סוזן1\Desktop\chess v40\chess v37\chess v32\chess v27\chess v25\chess\obj\x86\Debug\chess.csproj.ResolveComReference.cache
+C:\Users\סוזן1\Desktop\chess v40\chess v37\chess v32\chess v27\chess v25\chess\obj\x86\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v40\chess v37\chess v32\chess v27\chess v25\chess\obj\x86\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v40\chess v37\chess v32\chess v27\chess v25\chess\bin\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v40\chess v37\chess v32\chess v27\chess v25\chess\bin\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v40\chess v37\chess v32\chess v27\chess v25\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+C:\Users\סוזן1\Desktop\chess v40\chess v37\chess v32\chess v27\chess v25\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\סוזן1\Desktop\chess v40\chess v37\chess v32\chess v27\chess v25\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\סוזן1\Desktop\chess v40\chess v37\chess v32\chess v27\chess v25\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\סוזן1\Desktop\chess v41\chess v37\chess v32\chess v27\chess v25\chess\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\סוזן1\Desktop\chess v41\chess v37\chess v32\chess v27\chess v25\chess\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\סוזן1\Desktop\chess v41\chess v37\chess v32\chess v27\chess v25\chess\obj\x86\Debug\chess.csproj.ResolveComReference.cache
+C:\Users\סוזן1\Desktop\chess v41\chess v37\chess v32\chess v27\chess v25\chess\obj\x86\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v41\chess v37\chess v32\chess v27\chess v25\chess\obj\x86\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v41\chess v37\chess v32\chess v27\chess v25\chess\bin\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v41\chess v37\chess v32\chess v27\chess v25\chess\bin\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v41\chess v37\chess v32\chess v27\chess v25\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+C:\Users\סוזן1\Desktop\chess v41\chess v37\chess v32\chess v27\chess v25\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\סוזן1\Desktop\chess v41\chess v37\chess v32\chess v27\chess v25\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\סוזן1\Desktop\chess v41\chess v37\chess v32\chess v27\chess v25\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\סוזן1\Desktop\chess v42\chess v37\chess v32\chess v27\chess v25\chess\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\סוזן1\Desktop\chess v42\chess v37\chess v32\chess v27\chess v25\chess\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\סוזן1\Desktop\chess v42\chess v37\chess v32\chess v27\chess v25\chess\obj\x86\Debug\chess.csproj.ResolveComReference.cache
+C:\Users\סוזן1\Desktop\chess v42\chess v37\chess v32\chess v27\chess v25\chess\obj\x86\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v42\chess v37\chess v32\chess v27\chess v25\chess\obj\x86\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v42\chess v37\chess v32\chess v27\chess v25\chess\bin\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v42\chess v37\chess v32\chess v27\chess v25\chess\bin\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v42\chess v37\chess v32\chess v27\chess v25\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+C:\Users\סוזן1\Desktop\chess v42\chess v37\chess v32\chess v27\chess v25\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\סוזן1\Desktop\chess v42\chess v37\chess v32\chess v27\chess v25\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\סוזן1\Desktop\chess v42\chess v37\chess v32\chess v27\chess v25\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\M.S.A\Downloads\chess v43\chess v43\chess v37\chess v32\chess v27\chess v25\chess\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\M.S.A\Downloads\chess v43\chess v43\chess v37\chess v32\chess v27\chess v25\chess\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\M.S.A\Downloads\chess v43\chess v43\chess v37\chess v32\chess v27\chess v25\chess\obj\x86\Debug\chess.csproj.ResolveComReference.cache
+C:\Users\M.S.A\Downloads\chess v43\chess v43\chess v37\chess v32\chess v27\chess v25\chess\obj\x86\Debug\chess.exe
+C:\Users\M.S.A\Downloads\chess v43\chess v43\chess v37\chess v32\chess v27\chess v25\chess\obj\x86\Debug\chess.pdb
+C:\Users\M.S.A\Downloads\chess v43\chess v43\chess v37\chess v32\chess v27\chess v25\chess\bin\Debug\chess.exe
+C:\Users\M.S.A\Downloads\chess v43\chess v43\chess v37\chess v32\chess v27\chess v25\chess\bin\Debug\chess.pdb
+C:\Users\M.S.A\Downloads\chess v43\chess v43\chess v37\chess v32\chess v27\chess v25\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+C:\Users\M.S.A\Downloads\chess v43\chess v43\chess v37\chess v32\chess v27\chess v25\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\M.S.A\Downloads\chess v43\chess v43\chess v37\chess v32\chess v27\chess v25\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\M.S.A\Downloads\chess v43\chess v43\chess v37\chess v32\chess v27\chess v25\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\סוזן1\Desktop\chess v44\chess v44\chess\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\סוזן1\Desktop\chess v44\chess v44\chess\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\סוזן1\Desktop\chess v44\chess v44\chess\obj\x86\Debug\chess.csproj.ResolveComReference.cache
+C:\Users\סוזן1\Desktop\chess v44\chess v44\chess\obj\x86\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v44\chess v44\chess\obj\x86\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v44\chess v44\chess\bin\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v44\chess v44\chess\bin\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v44\chess v44\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+C:\Users\סוזן1\Desktop\chess v44\chess v44\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\סוזן1\Desktop\chess v44\chess v44\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\סוזן1\Desktop\chess v44\chess v44\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\סוזן1\Desktop\chess v47\chess\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\סוזן1\Desktop\chess v47\chess\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\סוזן1\Desktop\chess v47\chess\obj\x86\Debug\chess.csproj.ResolveComReference.cache
+C:\Users\סוזן1\Desktop\chess v47\chess\obj\x86\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v47\chess\obj\x86\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v47\chess\bin\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v47\chess\bin\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v47\chess\bin\Debug\Unit4.dll
+C:\Users\סוזן1\Desktop\chess v47\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+C:\Users\סוזן1\Desktop\chess v47\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\סוזן1\Desktop\chess v47\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\סוזן1\Desktop\chess v47\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\M.S.A\Downloads\chess v48\chess v48\chess\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\M.S.A\Downloads\chess v48\chess v48\chess\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\M.S.A\Downloads\chess v48\chess v48\chess\obj\x86\Debug\chess.csproj.ResolveComReference.cache
+C:\Users\M.S.A\Downloads\chess v48\chess v48\chess\obj\x86\Debug\chess.exe
+C:\Users\M.S.A\Downloads\chess v48\chess v48\chess\obj\x86\Debug\chess.pdb
+C:\Users\M.S.A\Downloads\chess v48\chess v48\chess\bin\Debug\chess.exe
+C:\Users\M.S.A\Downloads\chess v48\chess v48\chess\bin\Debug\chess.pdb
+C:\Users\M.S.A\Downloads\chess v48\chess v48\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+C:\Users\M.S.A\Downloads\chess v48\chess v48\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\M.S.A\Downloads\chess v48\chess v48\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\M.S.A\Downloads\chess v48\chess v48\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\סוזן1\Desktop\chess v50\chess v50\chess\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\סוזן1\Desktop\chess v50\chess v50\chess\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\סוזן1\Desktop\chess v50\chess v50\chess\obj\x86\Debug\chess.csproj.ResolveComReference.cache
+C:\Users\סוזן1\Desktop\chess v50\chess v50\chess\obj\x86\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v50\chess v50\chess\obj\x86\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v50\chess v50\chess\bin\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v50\chess v50\chess\bin\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v50\chess v50\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+C:\Users\סוזן1\Desktop\chess v50\chess v50\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\סוזן1\Desktop\chess v50\chess v50\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\סוזן1\Desktop\chess v50\chess v50\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\סוזן1\Desktop\chess v51\chess v50\chess\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\סוזן1\Desktop\chess v51\chess v50\chess\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\סוזן1\Desktop\chess v51\chess v50\chess\obj\x86\Debug\chess.csproj.ResolveComReference.cache
+C:\Users\סוזן1\Desktop\chess v51\chess v50\chess\obj\x86\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v51\chess v50\chess\obj\x86\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v51\chess v50\chess\bin\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v51\chess v50\chess\bin\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v51\chess v50\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+C:\Users\סוזן1\Desktop\chess v51\chess v50\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\סוזן1\Desktop\chess v51\chess v50\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\סוזן1\Desktop\chess v51\chess v50\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\סוזן1\Desktop\chess v51\chess v50\chess\bin\Debug\chess.exe.config
+C:\Users\סוזן1\Desktop\chess v51\chess v50\chess\obj\x86\Debug\chess.Form2.resources
+C:\Users\סוזן1\Desktop\chess v51\chess v50\chess\obj\x86\Debug\chess.Form3.resources
+C:\Users\סוזן1\Desktop\chess v51\chess v50\chess\obj\x86\Debug\chess.Form4.resources
+C:\Users\סוזן1\Desktop\chess v52\chess v50\chess\bin\Debug\chess.exe.config
+C:\Users\סוזן1\Desktop\chess v52\chess v50\chess\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\סוזן1\Desktop\chess v52\chess v50\chess\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\סוזן1\Desktop\chess v52\chess v50\chess\obj\x86\Debug\chess.csproj.ResolveComReference.cache
+C:\Users\סוזן1\Desktop\chess v52\chess v50\chess\obj\x86\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v52\chess v50\chess\obj\x86\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v52\chess v50\chess\bin\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v52\chess v50\chess\bin\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v52\chess v50\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+C:\Users\סוזן1\Desktop\chess v52\chess v50\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\סוזן1\Desktop\chess v52\chess v50\chess\obj\x86\Debug\chess.Form2.resources
+C:\Users\סוזן1\Desktop\chess v52\chess v50\chess\obj\x86\Debug\chess.Form3.resources
+C:\Users\סוזן1\Desktop\chess v52\chess v50\chess\obj\x86\Debug\chess.Form4.resources
+C:\Users\סוזן1\Desktop\chess v52\chess v50\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\סוזן1\Desktop\chess v52\chess v50\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\M.S.A\Downloads\chess v53\chess v53\chess v50\chess\bin\Debug\chess.exe.config
+C:\Users\M.S.A\Downloads\chess v53\chess v53\chess v50\chess\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\M.S.A\Downloads\chess v53\chess v53\chess v50\chess\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\M.S.A\Downloads\chess v53\chess v53\chess v50\chess\obj\x86\Debug\chess.csproj.ResolveComReference.cache
+C:\Users\M.S.A\Downloads\chess v53\chess v53\chess v50\chess\obj\x86\Debug\chess.exe
+C:\Users\M.S.A\Downloads\chess v53\chess v53\chess v50\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+C:\Users\M.S.A\Downloads\chess v53\chess v53\chess v50\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\M.S.A\Downloads\chess v53\chess v53\chess v50\chess\obj\x86\Debug\chess.Form2.resources
+C:\Users\M.S.A\Downloads\chess v53\chess v53\chess v50\chess\obj\x86\Debug\chess.Form3.resources
+C:\Users\M.S.A\Downloads\chess v53\chess v53\chess v50\chess\obj\x86\Debug\chess.Form4.resources
+C:\Users\M.S.A\Downloads\chess v53\chess v53\chess v50\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\M.S.A\Downloads\chess v53\chess v53\chess v50\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\M.S.A\Downloads\chess v53\chess v53\chess v50\chess\bin\Debug\chess.exe
+C:\Users\M.S.A\Downloads\chess v53\chess v53\chess v50\chess\bin\Debug\chess.pdb
+C:\Users\M.S.A\Downloads\chess v53\chess v53\chess v50\chess\obj\x86\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v54\chess v54\chess v53\chess v50\chess\bin\Debug\chess.exe.config
+C:\Users\סוזן1\Desktop\chess v54\chess v54\chess v53\chess v50\chess\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\סוזן1\Desktop\chess v54\chess v54\chess v53\chess v50\chess\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\סוזן1\Desktop\chess v54\chess v54\chess v53\chess v50\chess\obj\x86\Debug\chess.csproj.ResolveComReference.cache
+C:\Users\סוזן1\Desktop\chess v54\chess v54\chess v53\chess v50\chess\obj\x86\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v54\chess v54\chess v53\chess v50\chess\obj\x86\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v54\chess v54\chess v53\chess v50\chess\bin\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v54\chess v54\chess v53\chess v50\chess\bin\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v54\chess v54\chess v53\chess v50\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+C:\Users\סוזן1\Desktop\chess v54\chess v54\chess v53\chess v50\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\סוזן1\Desktop\chess v54\chess v54\chess v53\chess v50\chess\obj\x86\Debug\chess.Form2.resources
+C:\Users\סוזן1\Desktop\chess v54\chess v54\chess v53\chess v50\chess\obj\x86\Debug\chess.Form3.resources
+C:\Users\סוזן1\Desktop\chess v54\chess v54\chess v53\chess v50\chess\obj\x86\Debug\chess.Form4.resources
+C:\Users\סוזן1\Desktop\chess v54\chess v54\chess v53\chess v50\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\סוזן1\Desktop\chess v54\chess v54\chess v53\chess v50\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\סוזן1\Desktop\chess v55\chess\bin\Debug\chess.exe.config
+C:\Users\סוזן1\Desktop\chess v55\chess\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\סוזן1\Desktop\chess v55\chess\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\סוזן1\Desktop\chess v55\chess\obj\x86\Debug\chess.csproj.ResolveComReference.cache
+C:\Users\סוזן1\Desktop\chess v55\chess\obj\x86\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v55\chess\obj\x86\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v55\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+C:\Users\סוזן1\Desktop\chess v55\chess\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\סוזן1\Desktop\chess v55\chess\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\סוזן1\Desktop\chess v55\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\סוזן1\Desktop\chess v55\chess\obj\x86\Debug\chess.Form2.resources
+C:\Users\סוזן1\Desktop\chess v55\chess\obj\x86\Debug\chess.Form3.resources
+C:\Users\סוזן1\Desktop\chess v55\chess\obj\x86\Debug\chess.Form4.resources
+C:\Users\סוזן1\Desktop\chess v55\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\סוזן1\Desktop\chess v55\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\סוזן1\Desktop\chess v55\chess\bin\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v55\chess\bin\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v55\chess\bin\Debug\Unit4.dll
+C:\Users\סוזן1\Desktop\chess v55\chess\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\סוזן1\Desktop\chess v55\chess\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\סוזן1\Desktop\chess v56\chess\bin\Debug\chess.exe.config
+C:\Users\סוזן1\Desktop\chess v56\chess\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\סוזן1\Desktop\chess v56\chess\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\סוזן1\Desktop\chess v56\chess\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\סוזן1\Desktop\chess v56\chess\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\סוזן1\Desktop\chess v56\chess\obj\x86\Debug\chess.csproj.ResolveComReference.cache
+C:\Users\סוזן1\Desktop\chess v56\chess\obj\x86\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v56\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+C:\Users\סוזן1\Desktop\chess v56\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\סוזן1\Desktop\chess v56\chess\obj\x86\Debug\chess.Form2.resources
+C:\Users\סוזן1\Desktop\chess v56\chess\obj\x86\Debug\chess.Form3.resources
+C:\Users\סוזן1\Desktop\chess v56\chess\obj\x86\Debug\chess.Form4.resources
+C:\Users\סוזן1\Desktop\chess v56\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\סוזן1\Desktop\chess v56\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\סוזן1\Desktop\chess v56\chess\bin\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v56\chess\bin\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v56\chess\bin\Debug\Unit4.dll
+C:\Users\סוזן1\Desktop\chess v56\chess\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\סוזן1\Desktop\chess v56\chess\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\סוזן1\Desktop\chess v56\chess\obj\x86\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v57\chess\bin\Debug\chess.exe.config
+C:\Users\סוזן1\Desktop\chess v57\chess\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\סוזן1\Desktop\chess v57\chess\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\סוזן1\Desktop\chess v57\chess\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\סוזן1\Desktop\chess v57\chess\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\סוזן1\Desktop\chess v57\chess\obj\x86\Debug\chess.csproj.ResolveComReference.cache
+C:\Users\סוזן1\Desktop\chess v57\chess\obj\x86\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v57\chess\obj\x86\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v57\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+C:\Users\סוזן1\Desktop\chess v57\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\סוזן1\Desktop\chess v57\chess\obj\x86\Debug\chess.Form2.resources
+C:\Users\סוזן1\Desktop\chess v57\chess\obj\x86\Debug\chess.Form3.resources
+C:\Users\סוזן1\Desktop\chess v57\chess\obj\x86\Debug\chess.Form4.resources
+C:\Users\סוזן1\Desktop\chess v57\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\סוזן1\Desktop\chess v57\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\סוזן1\Desktop\chess v59\chess\bin\Debug\chess.exe.config
+C:\Users\סוזן1\Desktop\chess v59\chess\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\סוזן1\Desktop\chess v59\chess\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\סוזן1\Desktop\chess v59\chess\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\סוזן1\Desktop\chess v59\chess\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\סוזן1\Desktop\chess v59\chess\obj\x86\Debug\chess.csproj.ResolveComReference.cache
+C:\Users\סוזן1\Desktop\chess v59\chess\obj\x86\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v59\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+C:\Users\סוזן1\Desktop\chess v59\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\סוזן1\Desktop\chess v59\chess\obj\x86\Debug\chess.Form2.resources
+C:\Users\סוזן1\Desktop\chess v59\chess\obj\x86\Debug\chess.Form3.resources
+C:\Users\סוזן1\Desktop\chess v59\chess\obj\x86\Debug\chess.Form4.resources
+C:\Users\סוזן1\Desktop\chess v59\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\סוזן1\Desktop\chess v59\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\סוזן1\Desktop\chess v60\chess\bin\Debug\chess.exe.config
+C:\Users\סוזן1\Desktop\chess v60\chess\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\סוזן1\Desktop\chess v60\chess\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\סוזן1\Desktop\chess v60\chess\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\סוזן1\Desktop\chess v60\chess\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\סוזן1\Desktop\chess v60\chess\obj\x86\Debug\chess.csproj.ResolveComReference.cache
+C:\Users\סוזן1\Desktop\chess v60\chess\obj\x86\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v60\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+C:\Users\סוזן1\Desktop\chess v60\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\סוזן1\Desktop\chess v60\chess\obj\x86\Debug\chess.Form2.resources
+C:\Users\סוזן1\Desktop\chess v60\chess\obj\x86\Debug\chess.Form3.resources
+C:\Users\סוזן1\Desktop\chess v60\chess\obj\x86\Debug\chess.Form4.resources
+C:\Users\סוזן1\Desktop\chess v60\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\סוזן1\Desktop\chess v60\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\סוזן1\Desktop\chess v60\chess\bin\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v60\chess\bin\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v60\chess\bin\Debug\Unit4.dll
+C:\Users\סוזן1\Desktop\chess v60\chess\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\סוזן1\Desktop\chess v60\chess\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\סוזן1\Desktop\chess v60\chess\obj\x86\Debug\chess.pdb
+C:\Users\M.S.A\Downloads\chess v62\chess v62\chess\bin\Debug\chess.exe.config
+C:\Users\M.S.A\Downloads\chess v62\chess v62\chess\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\M.S.A\Downloads\chess v62\chess v62\chess\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\M.S.A\Downloads\chess v62\chess v62\chess\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\M.S.A\Downloads\chess v62\chess v62\chess\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\M.S.A\Downloads\chess v62\chess v62\chess\obj\x86\Debug\chess.csproj.ResolveComReference.cache
+C:\Users\M.S.A\Downloads\chess v62\chess v62\chess\obj\x86\Debug\chess.exe
+C:\Users\M.S.A\Downloads\chess v62\chess v62\chess\obj\x86\Debug\chess.pdb
+C:\Users\M.S.A\Downloads\chess v62\chess v62\chess\bin\Debug\chess.exe
+C:\Users\M.S.A\Downloads\chess v62\chess v62\chess\bin\Debug\chess.pdb
+C:\Users\M.S.A\Downloads\chess v62\chess v62\chess\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\M.S.A\Downloads\chess v62\chess v62\chess\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\M.S.A\Downloads\chess v62\chess v62\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+C:\Users\M.S.A\Downloads\chess v62\chess v62\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\M.S.A\Downloads\chess v62\chess v62\chess\obj\x86\Debug\chess.Form2.resources
+C:\Users\M.S.A\Downloads\chess v62\chess v62\chess\obj\x86\Debug\chess.Form3.resources
+C:\Users\M.S.A\Downloads\chess v62\chess v62\chess\obj\x86\Debug\chess.Form4.resources
+C:\Users\M.S.A\Downloads\chess v62\chess v62\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\M.S.A\Downloads\chess v62\chess v62\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\סוזן1\Desktop\chess v63\chess v63\chess\bin\Debug\chess.exe.config
+C:\Users\סוזן1\Desktop\chess v63\chess v63\chess\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\סוזן1\Desktop\chess v63\chess v63\chess\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\סוזן1\Desktop\chess v63\chess v63\chess\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\סוזן1\Desktop\chess v63\chess v63\chess\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\סוזן1\Desktop\chess v63\chess v63\chess\obj\x86\Debug\chess.csproj.ResolveComReference.cache
+C:\Users\סוזן1\Desktop\chess v63\chess v63\chess\obj\x86\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v63\chess v63\chess\bin\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v63\chess v63\chess\bin\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v63\chess v63\chess\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\סוזן1\Desktop\chess v63\chess v63\chess\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\סוזן1\Desktop\chess v63\chess v63\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+C:\Users\סוזן1\Desktop\chess v63\chess v63\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\סוזן1\Desktop\chess v63\chess v63\chess\obj\x86\Debug\chess.Form2.resources
+C:\Users\סוזן1\Desktop\chess v63\chess v63\chess\obj\x86\Debug\chess.Form3.resources
+C:\Users\סוזן1\Desktop\chess v63\chess v63\chess\obj\x86\Debug\chess.Form4.resources
+C:\Users\סוזן1\Desktop\chess v63\chess v63\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\סוזן1\Desktop\chess v63\chess v63\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\סוזן1\Desktop\chess v63\chess v63\chess\obj\x86\Debug\chess.pdb
+C:\Users\M.S.A\Downloads\chess v64\chess v64\chess v63\chess\bin\Debug\chess.exe.config
+C:\Users\M.S.A\Downloads\chess v64\chess v64\chess v63\chess\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\M.S.A\Downloads\chess v64\chess v64\chess v63\chess\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\M.S.A\Downloads\chess v64\chess v64\chess v63\chess\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\M.S.A\Downloads\chess v64\chess v64\chess v63\chess\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\M.S.A\Downloads\chess v64\chess v64\chess v63\chess\obj\x86\Debug\chess.csproj.ResolveComReference.cache
+C:\Users\M.S.A\Downloads\chess v64\chess v64\chess v63\chess\obj\x86\Debug\chess.exe
+C:\Users\M.S.A\Downloads\chess v64\chess v64\chess v63\chess\obj\x86\Debug\chess.pdb
+C:\Users\M.S.A\Downloads\chess v64\chess v64\chess v63\chess\bin\Debug\chess.exe
+C:\Users\M.S.A\Downloads\chess v64\chess v64\chess v63\chess\bin\Debug\chess.pdb
+C:\Users\M.S.A\Downloads\chess v64\chess v64\chess v63\chess\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\M.S.A\Downloads\chess v64\chess v64\chess v63\chess\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\M.S.A\Downloads\chess v64\chess v64\chess v63\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+C:\Users\M.S.A\Downloads\chess v64\chess v64\chess v63\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\M.S.A\Downloads\chess v64\chess v64\chess v63\chess\obj\x86\Debug\chess.Form2.resources
+C:\Users\M.S.A\Downloads\chess v64\chess v64\chess v63\chess\obj\x86\Debug\chess.Form3.resources
+C:\Users\M.S.A\Downloads\chess v64\chess v64\chess v63\chess\obj\x86\Debug\chess.Form4.resources
+C:\Users\M.S.A\Downloads\chess v64\chess v64\chess v63\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\M.S.A\Downloads\chess v64\chess v64\chess v63\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\סוזן1\Desktop\chess v65\chess v65\chess v64\chess v63\chess\bin\Debug\chess.exe.config
+C:\Users\סוזן1\Desktop\chess v65\chess v65\chess v64\chess v63\chess\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\סוזן1\Desktop\chess v65\chess v65\chess v64\chess v63\chess\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\סוזן1\Desktop\chess v65\chess v65\chess v64\chess v63\chess\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\סוזן1\Desktop\chess v65\chess v65\chess v64\chess v63\chess\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\סוזן1\Desktop\chess v65\chess v65\chess v64\chess v63\chess\obj\x86\Debug\chess.csproj.ResolveComReference.cache
+C:\Users\סוזן1\Desktop\chess v65\chess v65\chess v64\chess v63\chess\obj\x86\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v65\chess v65\chess v64\chess v63\chess\obj\x86\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v66\chess v65\chess v64\chess v63\chess\bin\Debug\chess.exe.config
+C:\Users\סוזן1\Desktop\chess v66\chess v65\chess v64\chess v63\chess\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\סוזן1\Desktop\chess v66\chess v65\chess v64\chess v63\chess\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\סוזן1\Desktop\chess v66\chess v65\chess v64\chess v63\chess\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\סוזן1\Desktop\chess v66\chess v65\chess v64\chess v63\chess\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\סוזן1\Desktop\chess v66\chess v65\chess v64\chess v63\chess\obj\x86\Debug\chess.csproj.ResolveComReference.cache
+C:\Users\סוזן1\Desktop\chess v66\chess v65\chess v64\chess v63\chess\obj\x86\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v66\chess v65\chess v64\chess v63\chess\obj\x86\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v66\chess v65\chess v64\chess v63\chess\bin\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v66\chess v65\chess v64\chess v63\chess\bin\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v66\chess v65\chess v64\chess v63\chess\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\סוזן1\Desktop\chess v66\chess v65\chess v64\chess v63\chess\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\סוזן1\Desktop\chess v66\chess v65\chess v64\chess v63\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+C:\Users\סוזן1\Desktop\chess v66\chess v65\chess v64\chess v63\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\סוזן1\Desktop\chess v66\chess v65\chess v64\chess v63\chess\obj\x86\Debug\chess.Form2.resources
+C:\Users\סוזן1\Desktop\chess v66\chess v65\chess v64\chess v63\chess\obj\x86\Debug\chess.Form3.resources
+C:\Users\סוזן1\Desktop\chess v66\chess v65\chess v64\chess v63\chess\obj\x86\Debug\chess.Form4.resources
+C:\Users\סוזן1\Desktop\chess v66\chess v65\chess v64\chess v63\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\סוזן1\Desktop\chess v66\chess v65\chess v64\chess v63\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\סוזן1\Desktop\chess v67\chess v65\chess v64\chess v63\chess\bin\Debug\chess.exe.config
+C:\Users\סוזן1\Desktop\chess v67\chess v65\chess v64\chess v63\chess\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\סוזן1\Desktop\chess v67\chess v65\chess v64\chess v63\chess\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\סוזן1\Desktop\chess v67\chess v65\chess v64\chess v63\chess\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\סוזן1\Desktop\chess v67\chess v65\chess v64\chess v63\chess\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\סוזן1\Desktop\chess v67\chess v65\chess v64\chess v63\chess\obj\x86\Debug\chess.csproj.ResolveComReference.cache
+C:\Users\סוזן1\Desktop\chess v67\chess v65\chess v64\chess v63\chess\obj\x86\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v67\chess v65\chess v64\chess v63\chess\obj\x86\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v67\chess v65\chess v64\chess v63\chess\bin\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v67\chess v65\chess v64\chess v63\chess\bin\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v67\chess v65\chess v64\chess v63\chess\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\סוזן1\Desktop\chess v67\chess v65\chess v64\chess v63\chess\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\סוזן1\Desktop\chess v67\chess v65\chess v64\chess v63\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+C:\Users\סוזן1\Desktop\chess v67\chess v65\chess v64\chess v63\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\סוזן1\Desktop\chess v67\chess v65\chess v64\chess v63\chess\obj\x86\Debug\chess.Form2.resources
+C:\Users\סוזן1\Desktop\chess v67\chess v65\chess v64\chess v63\chess\obj\x86\Debug\chess.Form3.resources
+C:\Users\סוזן1\Desktop\chess v67\chess v65\chess v64\chess v63\chess\obj\x86\Debug\chess.Form4.resources
+C:\Users\סוזן1\Desktop\chess v67\chess v65\chess v64\chess v63\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\סוזן1\Desktop\chess v67\chess v65\chess v64\chess v63\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\סוזן1\Desktop\chess v67\chess v65\chess v64\chess v63\chess\obj\x86\Debug\chess.Form5.resources
+C:\Users\סוזן1\Desktop\chess v67\chess v65\chess v64\chess v63\chess\obj\x86\Debug\chess.Form6.resources
+C:\Users\סוזן1\Desktop\chess v67\chess v65\chess v64\chess v63\chess\obj\x86\Debug\chess.Form7.resources
+C:\Users\סוזן1\Desktop\chess v67\chess v65\chess v64\chess v63\chess\obj\x86\Debug\chess.Form8.resources
+C:\Users\סוזן1\Desktop\chess v78\chess v65\chess v64\chess v63\chess\bin\Debug\chess.exe.config
+C:\Users\סוזן1\Desktop\chess v78\chess v65\chess v64\chess v63\chess\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\סוזן1\Desktop\chess v78\chess v65\chess v64\chess v63\chess\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\סוזן1\Desktop\chess v78\chess v65\chess v64\chess v63\chess\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\סוזן1\Desktop\chess v78\chess v65\chess v64\chess v63\chess\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\סוזן1\Desktop\chess v78\chess v65\chess v64\chess v63\chess\obj\x86\Debug\chess.csproj.ResolveComReference.cache
+C:\Users\סוזן1\Desktop\chess v78\chess v65\chess v64\chess v63\chess\obj\x86\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v78\chess v65\chess v64\chess v63\chess\obj\x86\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v78\chess v65\chess v64\chess v63\chess\bin\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v78\chess v65\chess v64\chess v63\chess\bin\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v78\chess v65\chess v64\chess v63\chess\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\סוזן1\Desktop\chess v78\chess v65\chess v64\chess v63\chess\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\סוזן1\Desktop\chess v78\chess v65\chess v64\chess v63\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+C:\Users\סוזן1\Desktop\chess v78\chess v65\chess v64\chess v63\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\סוזן1\Desktop\chess v78\chess v65\chess v64\chess v63\chess\obj\x86\Debug\chess.Form2.resources
+C:\Users\סוזן1\Desktop\chess v78\chess v65\chess v64\chess v63\chess\obj\x86\Debug\chess.Form3.resources
+C:\Users\סוזן1\Desktop\chess v78\chess v65\chess v64\chess v63\chess\obj\x86\Debug\chess.Form4.resources
+C:\Users\סוזן1\Desktop\chess v78\chess v65\chess v64\chess v63\chess\obj\x86\Debug\chess.Form5.resources
+C:\Users\סוזן1\Desktop\chess v78\chess v65\chess v64\chess v63\chess\obj\x86\Debug\chess.Form6.resources
+C:\Users\סוזן1\Desktop\chess v78\chess v65\chess v64\chess v63\chess\obj\x86\Debug\chess.Form7.resources
+C:\Users\סוזן1\Desktop\chess v78\chess v65\chess v64\chess v63\chess\obj\x86\Debug\chess.Form8.resources
+C:\Users\סוזן1\Desktop\chess v78\chess v65\chess v64\chess v63\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\סוזן1\Desktop\chess v78\chess v65\chess v64\chess v63\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\M.S.A\Downloads\chess v99\chess v79\chess v65\chess v64\chess v63\chess\bin\Debug\chess.exe.config
+C:\Users\M.S.A\Downloads\chess v99\chess v79\chess v65\chess v64\chess v63\chess\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\M.S.A\Downloads\chess v99\chess v79\chess v65\chess v64\chess v63\chess\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\M.S.A\Downloads\chess v99\chess v79\chess v65\chess v64\chess v63\chess\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\M.S.A\Downloads\chess v99\chess v79\chess v65\chess v64\chess v63\chess\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\M.S.A\Downloads\chess v99\chess v79\chess v65\chess v64\chess v63\chess\obj\x86\Debug\chess.csproj.ResolveComReference.cache
+C:\Users\M.S.A\Downloads\chess v99\chess v79\chess v65\chess v64\chess v63\chess\obj\x86\Debug\chess.exe
+C:\Users\M.S.A\Downloads\chess v99\chess v79\chess v65\chess v64\chess v63\chess\obj\x86\Debug\chess.pdb
+C:\Users\M.S.A\Downloads\chess v99\chess v79\chess v65\chess v64\chess v63\chess\bin\Debug\chess.exe
+C:\Users\M.S.A\Downloads\chess v99\chess v79\chess v65\chess v64\chess v63\chess\bin\Debug\chess.pdb
+C:\Users\M.S.A\Downloads\chess v99\chess v79\chess v65\chess v64\chess v63\chess\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\M.S.A\Downloads\chess v99\chess v79\chess v65\chess v64\chess v63\chess\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\M.S.A\Downloads\chess v99\chess v79\chess v65\chess v64\chess v63\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+C:\Users\M.S.A\Downloads\chess v99\chess v79\chess v65\chess v64\chess v63\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\M.S.A\Downloads\chess v99\chess v79\chess v65\chess v64\chess v63\chess\obj\x86\Debug\chess.Form2.resources
+C:\Users\M.S.A\Downloads\chess v99\chess v79\chess v65\chess v64\chess v63\chess\obj\x86\Debug\chess.Form3.resources
+C:\Users\M.S.A\Downloads\chess v99\chess v79\chess v65\chess v64\chess v63\chess\obj\x86\Debug\chess.Form4.resources
+C:\Users\M.S.A\Downloads\chess v99\chess v79\chess v65\chess v64\chess v63\chess\obj\x86\Debug\chess.Form5.resources
+C:\Users\M.S.A\Downloads\chess v99\chess v79\chess v65\chess v64\chess v63\chess\obj\x86\Debug\chess.Form6.resources
+C:\Users\M.S.A\Downloads\chess v99\chess v79\chess v65\chess v64\chess v63\chess\obj\x86\Debug\chess.Form7.resources
+C:\Users\M.S.A\Downloads\chess v99\chess v79\chess v65\chess v64\chess v63\chess\obj\x86\Debug\chess.Form8.resources
+C:\Users\M.S.A\Downloads\chess v99\chess v79\chess v65\chess v64\chess v63\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\M.S.A\Downloads\chess v99\chess v79\chess v65\chess v64\chess v63\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\s.alok1\Desktop\chess v99\chess v99\chess\bin\Debug\chess.exe.config
+C:\Users\s.alok1\Desktop\chess v99\chess v99\chess\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\s.alok1\Desktop\chess v99\chess v99\chess\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\s.alok1\Desktop\chess v99\chess v99\chess\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\s.alok1\Desktop\chess v99\chess v99\chess\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\s.alok1\Desktop\chess v99\chess v99\chess\obj\x86\Debug\chess.csproj.ResolveComReference.cache
+C:\Users\s.alok1\Desktop\chess v99\chess v99\chess\obj\x86\Debug\chess.exe
+C:\Users\s.alok1\Desktop\chess v99\chess v99\chess\obj\x86\Debug\chess.pdb
+C:\Users\s.alok1\Desktop\chess v99\chess v99\chess\bin\Debug\chess.exe
+C:\Users\s.alok1\Desktop\chess v99\chess v99\chess\bin\Debug\chess.pdb
+C:\Users\s.alok1\Desktop\chess v99\chess v99\chess\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\s.alok1\Desktop\chess v99\chess v99\chess\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\s.alok1\Desktop\chess v99\chess v99\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+C:\Users\s.alok1\Desktop\chess v99\chess v99\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\s.alok1\Desktop\chess v99\chess v99\chess\obj\x86\Debug\chess.Form2.resources
+C:\Users\s.alok1\Desktop\chess v99\chess v99\chess\obj\x86\Debug\chess.Form3.resources
+C:\Users\s.alok1\Desktop\chess v99\chess v99\chess\obj\x86\Debug\chess.Form4.resources
+C:\Users\s.alok1\Desktop\chess v99\chess v99\chess\obj\x86\Debug\chess.Form5.resources
+C:\Users\s.alok1\Desktop\chess v99\chess v99\chess\obj\x86\Debug\chess.Form6.resources
+C:\Users\s.alok1\Desktop\chess v99\chess v99\chess\obj\x86\Debug\chess.Form7.resources
+C:\Users\s.alok1\Desktop\chess v99\chess v99\chess\obj\x86\Debug\chess.Form8.resources
+C:\Users\s.alok1\Desktop\chess v99\chess v99\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\s.alok1\Desktop\chess v99\chess v99\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\assal\Downloads\chess v100\chess v100\chess v100\chess\bin\Debug\chess.exe.config
+C:\Users\assal\Downloads\chess v100\chess v100\chess v100\chess\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\assal\Downloads\chess v100\chess v100\chess v100\chess\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\assal\Downloads\chess v100\chess v100\chess v100\chess\obj\x86\Debug\chess.csproj.ResolveComReference.cache
+C:\Users\assal\Downloads\chess v100\chess v100\chess v100\chess\obj\x86\Debug\chess.exe
+C:\Users\assal\Downloads\chess v100\chess v100\chess v100\chess\obj\x86\Debug\chess.pdb
+C:\Users\assal\Downloads\chess v100\chess v100\chess v100\chess\bin\Debug\chess.exe
+C:\Users\assal\Downloads\chess v100\chess v100\chess v100\chess\bin\Debug\chess.pdb
+C:\Users\assal\Downloads\chess v100\chess v100\chess v100\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+C:\Users\assal\Downloads\chess v100\chess v100\chess v100\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\assal\Downloads\chess v100\chess v100\chess v100\chess\obj\x86\Debug\chess.Form2.resources
+C:\Users\assal\Downloads\chess v100\chess v100\chess v100\chess\obj\x86\Debug\chess.Form3.resources
+C:\Users\assal\Downloads\chess v100\chess v100\chess v100\chess\obj\x86\Debug\chess.Form4.resources
+C:\Users\assal\Downloads\chess v100\chess v100\chess v100\chess\obj\x86\Debug\chess.Form5.resources
+C:\Users\assal\Downloads\chess v100\chess v100\chess v100\chess\obj\x86\Debug\chess.Form6.resources
+C:\Users\assal\Downloads\chess v100\chess v100\chess v100\chess\obj\x86\Debug\chess.Form7.resources
+C:\Users\assal\Downloads\chess v100\chess v100\chess v100\chess\obj\x86\Debug\chess.Form8.resources
+C:\Users\assal\Downloads\chess v100\chess v100\chess v100\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\assal\Downloads\chess v100\chess v100\chess v100\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\s.alok1\Desktop\chess v101\chess v101\chess\bin\Debug\chess.exe.config
+C:\Users\s.alok1\Desktop\chess v101\chess v101\chess\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\s.alok1\Desktop\chess v101\chess v101\chess\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\s.alok1\Desktop\chess v101\chess v101\chess\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\s.alok1\Desktop\chess v101\chess v101\chess\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\s.alok1\Desktop\chess v101\chess v101\chess\obj\x86\Debug\chess.csproj.ResolveComReference.cache
+C:\Users\s.alok1\Desktop\chess v101\chess v101\chess\obj\x86\Debug\chess.exe
+C:\Users\s.alok1\Desktop\chess v101\chess v101\chess\obj\x86\Debug\chess.pdb
+C:\Users\s.alok1\Desktop\chess v101\chess v101\chess\bin\Debug\chess.exe
+C:\Users\s.alok1\Desktop\chess v101\chess v101\chess\bin\Debug\chess.pdb
+C:\Users\s.alok1\Desktop\chess v101\chess v101\chess\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\s.alok1\Desktop\chess v101\chess v101\chess\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\s.alok1\Desktop\chess v101\chess v101\chess\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\s.alok1\Desktop\chess v101\chess v101\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\s.alok1\Desktop\chess v101\chess v101\chess\obj\x86\Debug\chess.Form2.resources
+C:\Users\s.alok1\Desktop\chess v101\chess v101\chess\obj\x86\Debug\chess.Form3.resources
+C:\Users\s.alok1\Desktop\chess v101\chess v101\chess\obj\x86\Debug\chess.Form4.resources
+C:\Users\s.alok1\Desktop\chess v101\chess v101\chess\obj\x86\Debug\chess.Form5.resources
+C:\Users\s.alok1\Desktop\chess v101\chess v101\chess\obj\x86\Debug\chess.Form6.resources
+C:\Users\s.alok1\Desktop\chess v101\chess v101\chess\obj\x86\Debug\chess.Form7.resources
+C:\Users\s.alok1\Desktop\chess v101\chess v101\chess\obj\x86\Debug\chess.Form8.resources
+C:\Users\s.alok1\Desktop\chess v101\chess v101\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\s.alok1\Desktop\chess v101\chess v101\chess\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\s.alok1\Desktop\chess v101\chess v101\chess\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\s.alok1\Desktop\chess v102\chess v101\chess\bin\Debug\chess.exe.config
+C:\Users\s.alok1\Desktop\chess v102\chess v101\chess\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\s.alok1\Desktop\chess v102\chess v101\chess\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\s.alok1\Desktop\chess v102\chess v101\chess\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\s.alok1\Desktop\chess v102\chess v101\chess\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\s.alok1\Desktop\chess v102\chess v101\chess\obj\x86\Debug\chess.csproj.ResolveComReference.cache
+C:\Users\s.alok1\Desktop\chess v102\chess v101\chess\obj\x86\Debug\chess.exe
+C:\Users\s.alok1\Desktop\chess v102\chess v101\chess\obj\x86\Debug\chess.pdb
+C:\Users\s.alok1\Desktop\chess v102\chess v101\chess\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\s.alok1\Desktop\chess v102\chess v101\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\s.alok1\Desktop\chess v102\chess v101\chess\obj\x86\Debug\chess.Form2.resources
+C:\Users\s.alok1\Desktop\chess v102\chess v101\chess\obj\x86\Debug\chess.Form3.resources
+C:\Users\s.alok1\Desktop\chess v102\chess v101\chess\obj\x86\Debug\chess.Form4.resources
+C:\Users\s.alok1\Desktop\chess v102\chess v101\chess\obj\x86\Debug\chess.Form5.resources
+C:\Users\s.alok1\Desktop\chess v102\chess v101\chess\obj\x86\Debug\chess.Form6.resources
+C:\Users\s.alok1\Desktop\chess v102\chess v101\chess\obj\x86\Debug\chess.Form7.resources
+C:\Users\s.alok1\Desktop\chess v102\chess v101\chess\obj\x86\Debug\chess.Form8.resources
+C:\Users\s.alok1\Desktop\chess v102\chess v101\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\s.alok1\Desktop\chess v102\chess v101\chess\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\s.alok1\Desktop\chess v102\chess v101\chess\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\s.alok1\Desktop\chess v102\chess v101\chess\bin\Debug\chess.exe
+C:\Users\s.alok1\Desktop\chess v102\chess v101\chess\bin\Debug\chess.pdb
+C:\Users\s.alok1\Desktop\chess v102\chess v101\chess\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\s.alok1\Desktop\chess v102\chess v101\chess\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\s.alok1\Desktop\chess v103\chess v101\chess\bin\Debug\chess.exe.config
+C:\Users\s.alok1\Desktop\chess v103\chess v101\chess\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\s.alok1\Desktop\chess v103\chess v101\chess\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\s.alok1\Desktop\chess v103\chess v101\chess\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\s.alok1\Desktop\chess v103\chess v101\chess\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\s.alok1\Desktop\chess v103\chess v101\chess\obj\x86\Debug\chess.csproj.ResolveComReference.cache
+C:\Users\s.alok1\Desktop\chess v103\chess v101\chess\obj\x86\Debug\chess.exe
+C:\Users\s.alok1\Desktop\chess v103\chess v101\chess\obj\x86\Debug\chess.pdb
+C:\Users\s.alok1\Desktop\chess v103\chess v101\chess\bin\Debug\chess.exe
+C:\Users\s.alok1\Desktop\chess v103\chess v101\chess\bin\Debug\chess.pdb
+C:\Users\s.alok1\Desktop\chess v103\chess v101\chess\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\s.alok1\Desktop\chess v103\chess v101\chess\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\s.alok1\Desktop\chess v103\chess v101\chess\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\s.alok1\Desktop\chess v103\chess v101\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\s.alok1\Desktop\chess v103\chess v101\chess\obj\x86\Debug\chess.Form2.resources
+C:\Users\s.alok1\Desktop\chess v103\chess v101\chess\obj\x86\Debug\chess.Form3.resources
+C:\Users\s.alok1\Desktop\chess v103\chess v101\chess\obj\x86\Debug\chess.Form4.resources
+C:\Users\s.alok1\Desktop\chess v103\chess v101\chess\obj\x86\Debug\chess.Form5.resources
+C:\Users\s.alok1\Desktop\chess v103\chess v101\chess\obj\x86\Debug\chess.Form6.resources
+C:\Users\s.alok1\Desktop\chess v103\chess v101\chess\obj\x86\Debug\chess.Form7.resources
+C:\Users\s.alok1\Desktop\chess v103\chess v101\chess\obj\x86\Debug\chess.Form8.resources
+C:\Users\s.alok1\Desktop\chess v103\chess v101\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\s.alok1\Desktop\chess v103\chess v101\chess\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\s.alok1\Desktop\chess v103\chess v101\chess\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\chess v104\chess v101\chess\bin\Debug\chess.exe.config
+F:\chess v104\chess v101\chess\obj\x86\Debug\Interop.MediaPlayer.dll
+F:\chess v104\chess v101\chess\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+F:\chess v104\chess v101\chess\obj\x86\Debug\Interop.WMPLib.dll
+F:\chess v104\chess v101\chess\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+F:\chess v104\chess v101\chess\obj\x86\Debug\chess.csproj.ResolveComReference.cache
+F:\chess v104\chess v101\chess\obj\x86\Debug\chess.exe
+F:\chess v104\chess v101\chess\obj\x86\Debug\chess.pdb
+F:\chess v104\chess v101\chess\bin\Debug\chess.exe
+F:\chess v104\chess v101\chess\bin\Debug\chess.pdb
+F:\chess v104\chess v101\chess\bin\Debug\Interop.ShockwaveFlashObjects.dll
+F:\chess v104\chess v101\chess\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+F:\chess v104\chess v101\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+F:\chess v104\chess v101\chess\obj\x86\Debug\chess.Form1.resources
+F:\chess v104\chess v101\chess\obj\x86\Debug\chess.Form2.resources
+F:\chess v104\chess v101\chess\obj\x86\Debug\chess.Form3.resources
+F:\chess v104\chess v101\chess\obj\x86\Debug\chess.Form4.resources
+F:\chess v104\chess v101\chess\obj\x86\Debug\chess.Form5.resources
+F:\chess v104\chess v101\chess\obj\x86\Debug\chess.Form6.resources
+F:\chess v104\chess v101\chess\obj\x86\Debug\chess.Form7.resources
+F:\chess v104\chess v101\chess\obj\x86\Debug\chess.Form8.resources
+F:\chess v104\chess v101\chess\obj\x86\Debug\chess.Properties.Resources.resources
+F:\chess v104\chess v101\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\סוזן1\Desktop\chess v104\chess v101\chess\bin\Debug\chess.exe.config
+C:\Users\סוזן1\Desktop\chess v104\chess v101\chess\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\סוזן1\Desktop\chess v104\chess v101\chess\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\סוזן1\Desktop\chess v104\chess v101\chess\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\סוזן1\Desktop\chess v104\chess v101\chess\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\סוזן1\Desktop\chess v104\chess v101\chess\obj\x86\Debug\chess.csproj.ResolveComReference.cache
+C:\Users\סוזן1\Desktop\chess v104\chess v101\chess\obj\x86\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v104\chess v101\chess\obj\x86\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v104\chess v101\chess\bin\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v104\chess v101\chess\bin\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v104\chess v101\chess\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\סוזן1\Desktop\chess v104\chess v101\chess\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\סוזן1\Desktop\chess v104\chess v101\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+C:\Users\סוזן1\Desktop\chess v104\chess v101\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\סוזן1\Desktop\chess v104\chess v101\chess\obj\x86\Debug\chess.Form2.resources
+C:\Users\סוזן1\Desktop\chess v104\chess v101\chess\obj\x86\Debug\chess.Form3.resources
+C:\Users\סוזן1\Desktop\chess v104\chess v101\chess\obj\x86\Debug\chess.Form4.resources
+C:\Users\סוזן1\Desktop\chess v104\chess v101\chess\obj\x86\Debug\chess.Form5.resources
+C:\Users\סוזן1\Desktop\chess v104\chess v101\chess\obj\x86\Debug\chess.Form6.resources
+C:\Users\סוזן1\Desktop\chess v104\chess v101\chess\obj\x86\Debug\chess.Form7.resources
+C:\Users\סוזן1\Desktop\chess v104\chess v101\chess\obj\x86\Debug\chess.Form8.resources
+C:\Users\סוזן1\Desktop\chess v104\chess v101\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\סוזן1\Desktop\chess v104\chess v101\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\סוזן1\Desktop\chess v104\chess v101\chess\obj\x86\Debug\chess.Form9.resources
+C:\Users\סוזן1\Desktop\chess v104\chess v101\chess\obj\x86\Debug\chess.Form10.resources
+C:\Users\סוזן1\Desktop\chess v105\chess v101\chess\bin\Debug\chess.exe.config
+C:\Users\סוזן1\Desktop\chess v105\chess v101\chess\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\סוזן1\Desktop\chess v105\chess v101\chess\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\סוזן1\Desktop\chess v105\chess v101\chess\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\סוזן1\Desktop\chess v105\chess v101\chess\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\סוזן1\Desktop\chess v105\chess v101\chess\obj\x86\Debug\chess.csproj.ResolveComReference.cache
+C:\Users\סוזן1\Desktop\chess v105\chess v101\chess\obj\x86\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v105\chess v101\chess\obj\x86\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v105\chess v101\chess\bin\Debug\chess.exe
+C:\Users\סוזן1\Desktop\chess v105\chess v101\chess\bin\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\chess v105\chess v101\chess\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\סוזן1\Desktop\chess v105\chess v101\chess\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\סוזן1\Desktop\chess v105\chess v101\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+C:\Users\סוזן1\Desktop\chess v105\chess v101\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\סוזן1\Desktop\chess v105\chess v101\chess\obj\x86\Debug\chess.Form10.resources
+C:\Users\סוזן1\Desktop\chess v105\chess v101\chess\obj\x86\Debug\chess.Form11.resources
+C:\Users\סוזן1\Desktop\chess v105\chess v101\chess\obj\x86\Debug\chess.Form2.resources
+C:\Users\סוזן1\Desktop\chess v105\chess v101\chess\obj\x86\Debug\chess.Form3.resources
+C:\Users\סוזן1\Desktop\chess v105\chess v101\chess\obj\x86\Debug\chess.Form4.resources
+C:\Users\סוזן1\Desktop\chess v105\chess v101\chess\obj\x86\Debug\chess.Form5.resources
+C:\Users\סוזן1\Desktop\chess v105\chess v101\chess\obj\x86\Debug\chess.Form6.resources
+C:\Users\סוזן1\Desktop\chess v105\chess v101\chess\obj\x86\Debug\chess.Form7.resources
+C:\Users\סוזן1\Desktop\chess v105\chess v101\chess\obj\x86\Debug\chess.Form8.resources
+C:\Users\סוזן1\Desktop\chess v105\chess v101\chess\obj\x86\Debug\chess.Form9.resources
+C:\Users\סוזן1\Desktop\chess v105\chess v101\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\סוזן1\Desktop\chess v105\chess v101\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\s.alok1\Desktop\chess v105\chess v101\chess\bin\Debug\chess.exe.config
+C:\Users\s.alok1\Desktop\chess v105\chess v101\chess\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\s.alok1\Desktop\chess v105\chess v101\chess\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\s.alok1\Desktop\chess v105\chess v101\chess\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\s.alok1\Desktop\chess v105\chess v101\chess\obj\x86\Debug\chess.csproj.ResolveComReference.cache
+C:\Users\s.alok1\Desktop\chess v105\chess v101\chess\obj\x86\Debug\chess.exe
+C:\Users\s.alok1\Desktop\chess v105\chess v101\chess\obj\x86\Debug\chess.pdb
+C:\Users\s.alok1\Desktop\chess v105\chess v101\chess\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\s.alok1\Desktop\chess v105\chess v101\chess\bin\Debug\chess.exe
+C:\Users\s.alok1\Desktop\chess v105\chess v101\chess\bin\Debug\chess.pdb
+C:\Users\s.alok1\Desktop\chess v105\chess v101\chess\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\s.alok1\Desktop\chess v105\chess v101\chess\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\s.alok1\Desktop\chess v105\chess v101\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+C:\Users\s.alok1\Desktop\chess v105\chess v101\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\s.alok1\Desktop\chess v105\chess v101\chess\obj\x86\Debug\chess.Form10.resources
+C:\Users\s.alok1\Desktop\chess v105\chess v101\chess\obj\x86\Debug\chess.Form11.resources
+C:\Users\s.alok1\Desktop\chess v105\chess v101\chess\obj\x86\Debug\chess.Form2.resources
+C:\Users\s.alok1\Desktop\chess v105\chess v101\chess\obj\x86\Debug\chess.Form3.resources
+C:\Users\s.alok1\Desktop\chess v105\chess v101\chess\obj\x86\Debug\chess.Form4.resources
+C:\Users\s.alok1\Desktop\chess v105\chess v101\chess\obj\x86\Debug\chess.Form5.resources
+C:\Users\s.alok1\Desktop\chess v105\chess v101\chess\obj\x86\Debug\chess.Form6.resources
+C:\Users\s.alok1\Desktop\chess v105\chess v101\chess\obj\x86\Debug\chess.Form7.resources
+C:\Users\s.alok1\Desktop\chess v105\chess v101\chess\obj\x86\Debug\chess.Form8.resources
+C:\Users\s.alok1\Desktop\chess v105\chess v101\chess\obj\x86\Debug\chess.Form9.resources
+C:\Users\s.alok1\Desktop\chess v105\chess v101\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\s.alok1\Desktop\chess v105\chess v101\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\s.alok1\Desktop\chess v106\chess v101\chess\bin\Debug\chess.exe.config
+C:\Users\s.alok1\Desktop\chess v106\chess v101\chess\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\s.alok1\Desktop\chess v106\chess v101\chess\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\s.alok1\Desktop\chess v106\chess v101\chess\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\s.alok1\Desktop\chess v106\chess v101\chess\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\s.alok1\Desktop\chess v106\chess v101\chess\obj\x86\Debug\chess.csproj.ResolveComReference.cache
+C:\Users\s.alok1\Desktop\chess v106\chess v101\chess\obj\x86\Debug\chess.exe
+C:\Users\s.alok1\Desktop\chess v106\chess v101\chess\obj\x86\Debug\chess.pdb
+C:\Users\s.alok1\Desktop\chess v106\chess v101\chess\bin\Debug\chess.exe
+C:\Users\s.alok1\Desktop\chess v106\chess v101\chess\bin\Debug\chess.pdb
+C:\Users\s.alok1\Desktop\chess v106\chess v101\chess\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\s.alok1\Desktop\chess v106\chess v101\chess\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\s.alok1\Desktop\chess v106\chess v101\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+C:\Users\s.alok1\Desktop\chess v106\chess v101\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\s.alok1\Desktop\chess v106\chess v101\chess\obj\x86\Debug\chess.Form10.resources
+C:\Users\s.alok1\Desktop\chess v106\chess v101\chess\obj\x86\Debug\chess.Form11.resources
+C:\Users\s.alok1\Desktop\chess v106\chess v101\chess\obj\x86\Debug\chess.Form2.resources
+C:\Users\s.alok1\Desktop\chess v106\chess v101\chess\obj\x86\Debug\chess.Form3.resources
+C:\Users\s.alok1\Desktop\chess v106\chess v101\chess\obj\x86\Debug\chess.Form4.resources
+C:\Users\s.alok1\Desktop\chess v106\chess v101\chess\obj\x86\Debug\chess.Form5.resources
+C:\Users\s.alok1\Desktop\chess v106\chess v101\chess\obj\x86\Debug\chess.Form6.resources
+C:\Users\s.alok1\Desktop\chess v106\chess v101\chess\obj\x86\Debug\chess.Form7.resources
+C:\Users\s.alok1\Desktop\chess v106\chess v101\chess\obj\x86\Debug\chess.Form8.resources
+C:\Users\s.alok1\Desktop\chess v106\chess v101\chess\obj\x86\Debug\chess.Form9.resources
+C:\Users\s.alok1\Desktop\chess v106\chess v101\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\s.alok1\Desktop\chess v106\chess v101\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\s.alok1\Desktop\chess v106\chess v101\chess\obj\x86\Debug\chess.Form12.resources
+C:\Users\s.alok1\Desktop\chess v107\chess v101\chess\bin\Debug\chess.exe.config
+C:\Users\s.alok1\Desktop\chess v107\chess v101\chess\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\s.alok1\Desktop\chess v107\chess v101\chess\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\s.alok1\Desktop\chess v107\chess v101\chess\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\s.alok1\Desktop\chess v107\chess v101\chess\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\s.alok1\Desktop\chess v107\chess v101\chess\obj\x86\Debug\chess.csproj.ResolveComReference.cache
+C:\Users\s.alok1\Desktop\chess v107\chess v101\chess\obj\x86\Debug\chess.exe
+C:\Users\s.alok1\Desktop\chess v107\chess v101\chess\obj\x86\Debug\chess.pdb
+C:\Users\s.alok1\Desktop\chess v107\chess v101\chess\bin\Debug\chess.exe
+C:\Users\s.alok1\Desktop\chess v107\chess v101\chess\bin\Debug\chess.pdb
+C:\Users\s.alok1\Desktop\chess v107\chess v101\chess\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\s.alok1\Desktop\chess v107\chess v101\chess\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\s.alok1\Desktop\chess v107\chess v101\chess\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\s.alok1\Desktop\chess v107\chess v101\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\s.alok1\Desktop\chess v107\chess v101\chess\obj\x86\Debug\chess.Form10.resources
+C:\Users\s.alok1\Desktop\chess v107\chess v101\chess\obj\x86\Debug\chess.Form11.resources
+C:\Users\s.alok1\Desktop\chess v107\chess v101\chess\obj\x86\Debug\chess.Form12.resources
+C:\Users\s.alok1\Desktop\chess v107\chess v101\chess\obj\x86\Debug\chess.Form13.resources
+C:\Users\s.alok1\Desktop\chess v107\chess v101\chess\obj\x86\Debug\chess.Form2.resources
+C:\Users\s.alok1\Desktop\chess v107\chess v101\chess\obj\x86\Debug\chess.Form4.resources
+C:\Users\s.alok1\Desktop\chess v107\chess v101\chess\obj\x86\Debug\chess.Form5.resources
+C:\Users\s.alok1\Desktop\chess v107\chess v101\chess\obj\x86\Debug\chess.Form8.resources
+C:\Users\s.alok1\Desktop\chess v107\chess v101\chess\obj\x86\Debug\chess.Form9.resources
+C:\Users\s.alok1\Desktop\chess v107\chess v101\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\s.alok1\Desktop\chess v107\chess v101\chess\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\s.alok1\Desktop\chess v107\chess v101\chess\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\סוזן1\Desktop\שחממט\chess v109\chess v101\chess\bin\Debug\chess.exe.config
+C:\Users\סוזן1\Desktop\שחממט\chess v109\chess v101\chess\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\סוזן1\Desktop\שחממט\chess v109\chess v101\chess\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\סוזן1\Desktop\שחממט\chess v109\chess v101\chess\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\סוזן1\Desktop\שחממט\chess v109\chess v101\chess\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\סוזן1\Desktop\שחממט\chess v109\chess v101\chess\obj\x86\Debug\chess.csproj.ResolveComReference.cache
+C:\Users\סוזן1\Desktop\שחממט\chess v109\chess v101\chess\obj\x86\Debug\chess.exe
+C:\Users\סוזן1\Desktop\שחממט\chess v109\chess v101\chess\obj\x86\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\שחממט\chess v109\chess v101\chess\bin\Debug\chess.exe
+C:\Users\סוזן1\Desktop\שחממט\chess v109\chess v101\chess\bin\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\שחממט\chess v109\chess v101\chess\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\סוזן1\Desktop\שחממט\chess v109\chess v101\chess\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\סוזן1\Desktop\שחממט\chess v109\chess v101\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+C:\Users\סוזן1\Desktop\שחממט\chess v109\chess v101\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\סוזן1\Desktop\שחממט\chess v109\chess v101\chess\obj\x86\Debug\chess.Form10.resources
+C:\Users\סוזן1\Desktop\שחממט\chess v109\chess v101\chess\obj\x86\Debug\chess.Form11.resources
+C:\Users\סוזן1\Desktop\שחממט\chess v109\chess v101\chess\obj\x86\Debug\chess.Form12.resources
+C:\Users\סוזן1\Desktop\שחממט\chess v109\chess v101\chess\obj\x86\Debug\chess.Form13.resources
+C:\Users\סוזן1\Desktop\שחממט\chess v109\chess v101\chess\obj\x86\Debug\chess.Form2.resources
+C:\Users\סוזן1\Desktop\שחממט\chess v109\chess v101\chess\obj\x86\Debug\chess.Form4.resources
+C:\Users\סוזן1\Desktop\שחממט\chess v109\chess v101\chess\obj\x86\Debug\chess.Form5.resources
+C:\Users\סוזן1\Desktop\שחממט\chess v109\chess v101\chess\obj\x86\Debug\chess.Form8.resources
+C:\Users\סוזן1\Desktop\שחממט\chess v109\chess v101\chess\obj\x86\Debug\chess.Form9.resources
+C:\Users\סוזן1\Desktop\שחממט\chess v109\chess v101\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\סוזן1\Desktop\שחממט\chess v109\chess v101\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\s.alok1\Desktop\chess v101\chess\bin\Debug\chess.exe.config
+C:\Users\s.alok1\Desktop\chess v101\chess\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\s.alok1\Desktop\chess v101\chess\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\s.alok1\Desktop\chess v101\chess\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\s.alok1\Desktop\chess v101\chess\obj\x86\Debug\chess.csproj.ResolveComReference.cache
+C:\Users\s.alok1\Desktop\chess v101\chess\obj\x86\Debug\chess.exe
+C:\Users\s.alok1\Desktop\chess v101\chess\obj\x86\Debug\chess.pdb
+C:\Users\s.alok1\Desktop\chess v101\chess\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\s.alok1\Desktop\chess v101\chess\bin\Debug\chess.exe
+C:\Users\s.alok1\Desktop\chess v101\chess\bin\Debug\chess.pdb
+C:\Users\s.alok1\Desktop\chess v101\chess\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\s.alok1\Desktop\chess v101\chess\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\s.alok1\Desktop\chess v101\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+C:\Users\s.alok1\Desktop\chess v101\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\s.alok1\Desktop\chess v101\chess\obj\x86\Debug\chess.Form10.resources
+C:\Users\s.alok1\Desktop\chess v101\chess\obj\x86\Debug\chess.Form11.resources
+C:\Users\s.alok1\Desktop\chess v101\chess\obj\x86\Debug\chess.Form12.resources
+C:\Users\s.alok1\Desktop\chess v101\chess\obj\x86\Debug\chess.Form13.resources
+C:\Users\s.alok1\Desktop\chess v101\chess\obj\x86\Debug\chess.Form2.resources
+C:\Users\s.alok1\Desktop\chess v101\chess\obj\x86\Debug\chess.Form4.resources
+C:\Users\s.alok1\Desktop\chess v101\chess\obj\x86\Debug\chess.Form5.resources
+C:\Users\s.alok1\Desktop\chess v101\chess\obj\x86\Debug\chess.Form8.resources
+C:\Users\s.alok1\Desktop\chess v101\chess\obj\x86\Debug\chess.Form9.resources
+C:\Users\s.alok1\Desktop\chess v101\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\s.alok1\Desktop\chess v101\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\s.alok1\Desktop\chess v115\chess\bin\Debug\chess.exe.config
+C:\Users\s.alok1\Desktop\chess v115\chess\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\s.alok1\Desktop\chess v115\chess\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\s.alok1\Desktop\chess v115\chess\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\s.alok1\Desktop\chess v115\chess\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\s.alok1\Desktop\chess v115\chess\obj\x86\Debug\chess.csproj.ResolveComReference.cache
+C:\Users\s.alok1\Desktop\chess v115\chess\obj\x86\Debug\chess.exe
+C:\Users\s.alok1\Desktop\chess v115\chess\obj\x86\Debug\chess.pdb
+C:\Users\s.alok1\Desktop\chess v115\chess\bin\Debug\chess.exe
+C:\Users\s.alok1\Desktop\chess v115\chess\bin\Debug\chess.pdb
+C:\Users\s.alok1\Desktop\chess v115\chess\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\s.alok1\Desktop\chess v115\chess\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\s.alok1\Desktop\chess v115\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+C:\Users\s.alok1\Desktop\chess v115\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\s.alok1\Desktop\chess v115\chess\obj\x86\Debug\chess.Form10.resources
+C:\Users\s.alok1\Desktop\chess v115\chess\obj\x86\Debug\chess.Form11.resources
+C:\Users\s.alok1\Desktop\chess v115\chess\obj\x86\Debug\chess.Form12.resources
+C:\Users\s.alok1\Desktop\chess v115\chess\obj\x86\Debug\chess.Form13.resources
+C:\Users\s.alok1\Desktop\chess v115\chess\obj\x86\Debug\chess.Form2.resources
+C:\Users\s.alok1\Desktop\chess v115\chess\obj\x86\Debug\chess.Form4.resources
+C:\Users\s.alok1\Desktop\chess v115\chess\obj\x86\Debug\chess.Form5.resources
+C:\Users\s.alok1\Desktop\chess v115\chess\obj\x86\Debug\chess.Form8.resources
+C:\Users\s.alok1\Desktop\chess v115\chess\obj\x86\Debug\chess.Form9.resources
+C:\Users\s.alok1\Desktop\chess v115\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\s.alok1\Desktop\chess v115\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\סוזן1\Desktop\שחממט\chess v116\chess v116\chess\bin\Debug\chess.exe.config
+C:\Users\סוזן1\Desktop\שחממט\chess v116\chess v116\chess\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\סוזן1\Desktop\שחממט\chess v116\chess v116\chess\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\סוזן1\Desktop\שחממט\chess v116\chess v116\chess\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\סוזן1\Desktop\שחממט\chess v116\chess v116\chess\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\סוזן1\Desktop\שחממט\chess v116\chess v116\chess\obj\x86\Debug\chess.csproj.ResolveComReference.cache
+C:\Users\סוזן1\Desktop\שחממט\chess v116\chess v116\chess\obj\x86\Debug\chess.exe
+C:\Users\סוזן1\Desktop\שחממט\chess v116\chess v116\chess\obj\x86\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\שחממט\chess v116\chess v116\chess\bin\Debug\chess.exe
+C:\Users\סוזן1\Desktop\שחממט\chess v116\chess v116\chess\bin\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\שחממט\chess v116\chess v116\chess\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\סוזן1\Desktop\שחממט\chess v116\chess v116\chess\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\סוזן1\Desktop\שחממט\chess v116\chess v116\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+C:\Users\סוזן1\Desktop\שחממט\chess v116\chess v116\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\סוזן1\Desktop\שחממט\chess v116\chess v116\chess\obj\x86\Debug\chess.Form10.resources
+C:\Users\סוזן1\Desktop\שחממט\chess v116\chess v116\chess\obj\x86\Debug\chess.Form11.resources
+C:\Users\סוזן1\Desktop\שחממט\chess v116\chess v116\chess\obj\x86\Debug\chess.Form12.resources
+C:\Users\סוזן1\Desktop\שחממט\chess v116\chess v116\chess\obj\x86\Debug\chess.Form13.resources
+C:\Users\סוזן1\Desktop\שחממט\chess v116\chess v116\chess\obj\x86\Debug\chess.Form2.resources
+C:\Users\סוזן1\Desktop\שחממט\chess v116\chess v116\chess\obj\x86\Debug\chess.Form4.resources
+C:\Users\סוזן1\Desktop\שחממט\chess v116\chess v116\chess\obj\x86\Debug\chess.Form5.resources
+C:\Users\סוזן1\Desktop\שחממט\chess v116\chess v116\chess\obj\x86\Debug\chess.Form8.resources
+C:\Users\סוזן1\Desktop\שחממט\chess v116\chess v116\chess\obj\x86\Debug\chess.Form9.resources
+C:\Users\סוזן1\Desktop\שחממט\chess v116\chess v116\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\סוזן1\Desktop\שחממט\chess v116\chess v116\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\סוזן1\Desktop\שחממט\chess v117\chess v116\chess\bin\Debug\chess.exe.config
+C:\Users\סוזן1\Desktop\שחממט\chess v117\chess v116\chess\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\סוזן1\Desktop\שחממט\chess v117\chess v116\chess\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\סוזן1\Desktop\שחממט\chess v117\chess v116\chess\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\סוזן1\Desktop\שחממט\chess v117\chess v116\chess\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\סוזן1\Desktop\שחממט\chess v117\chess v116\chess\obj\x86\Debug\chess.csproj.ResolveComReference.cache
+C:\Users\סוזן1\Desktop\שחממט\chess v117\chess v116\chess\obj\x86\Debug\chess.exe
+C:\Users\סוזן1\Desktop\שחממט\chess v117\chess v116\chess\obj\x86\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\שחממט\chess v117\chess v116\chess\bin\Debug\chess.exe
+C:\Users\סוזן1\Desktop\שחממט\chess v117\chess v116\chess\bin\Debug\chess.pdb
+C:\Users\סוזן1\Desktop\שחממט\chess v117\chess v116\chess\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\סוזן1\Desktop\שחממט\chess v117\chess v116\chess\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\סוזן1\Desktop\שחממט\chess v117\chess v116\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+C:\Users\סוזן1\Desktop\שחממט\chess v117\chess v116\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\סוזן1\Desktop\שחממט\chess v117\chess v116\chess\obj\x86\Debug\chess.Form10.resources
+C:\Users\סוזן1\Desktop\שחממט\chess v117\chess v116\chess\obj\x86\Debug\chess.Form11.resources
+C:\Users\סוזן1\Desktop\שחממט\chess v117\chess v116\chess\obj\x86\Debug\chess.Form12.resources
+C:\Users\סוזן1\Desktop\שחממט\chess v117\chess v116\chess\obj\x86\Debug\chess.Form13.resources
+C:\Users\סוזן1\Desktop\שחממט\chess v117\chess v116\chess\obj\x86\Debug\chess.Form2.resources
+C:\Users\סוזן1\Desktop\שחממט\chess v117\chess v116\chess\obj\x86\Debug\chess.Form4.resources
+C:\Users\סוזן1\Desktop\שחממט\chess v117\chess v116\chess\obj\x86\Debug\chess.Form5.resources
+C:\Users\סוזן1\Desktop\שחממט\chess v117\chess v116\chess\obj\x86\Debug\chess.Form8.resources
+C:\Users\סוזן1\Desktop\שחממט\chess v117\chess v116\chess\obj\x86\Debug\chess.Form9.resources
+C:\Users\סוזן1\Desktop\שחממט\chess v117\chess v116\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\סוזן1\Desktop\שחממט\chess v117\chess v116\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\s.alok1\Desktop\chess v117\chess v116\chess\bin\Debug\chess.exe.config
+C:\Users\s.alok1\Desktop\chess v117\chess v116\chess\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\s.alok1\Desktop\chess v117\chess v116\chess\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\s.alok1\Desktop\chess v117\chess v116\chess\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\s.alok1\Desktop\chess v117\chess v116\chess\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\s.alok1\Desktop\chess v117\chess v116\chess\obj\x86\Debug\chess.csproj.ResolveComReference.cache
+C:\Users\s.alok1\Desktop\chess v117\chess v116\chess\obj\x86\Debug\chess.exe
+C:\Users\s.alok1\Desktop\chess v117\chess v116\chess\obj\x86\Debug\chess.pdb
+C:\Users\s.alok1\Desktop\chess v117\chess v116\chess\bin\Debug\chess.exe
+C:\Users\s.alok1\Desktop\chess v117\chess v116\chess\bin\Debug\chess.pdb
+C:\Users\s.alok1\Desktop\chess v117\chess v116\chess\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\s.alok1\Desktop\chess v117\chess v116\chess\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\s.alok1\Desktop\chess v117\chess v116\chess\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\s.alok1\Desktop\chess v117\chess v116\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\s.alok1\Desktop\chess v117\chess v116\chess\obj\x86\Debug\chess.Form10.resources
+C:\Users\s.alok1\Desktop\chess v117\chess v116\chess\obj\x86\Debug\chess.Form11.resources
+C:\Users\s.alok1\Desktop\chess v117\chess v116\chess\obj\x86\Debug\chess.Form12.resources
+C:\Users\s.alok1\Desktop\chess v117\chess v116\chess\obj\x86\Debug\chess.Form13.resources
+C:\Users\s.alok1\Desktop\chess v117\chess v116\chess\obj\x86\Debug\chess.Form2.resources
+C:\Users\s.alok1\Desktop\chess v117\chess v116\chess\obj\x86\Debug\chess.Form4.resources
+C:\Users\s.alok1\Desktop\chess v117\chess v116\chess\obj\x86\Debug\chess.Form5.resources
+C:\Users\s.alok1\Desktop\chess v117\chess v116\chess\obj\x86\Debug\chess.Form8.resources
+C:\Users\s.alok1\Desktop\chess v117\chess v116\chess\obj\x86\Debug\chess.Form9.resources
+C:\Users\s.alok1\Desktop\chess v117\chess v116\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\s.alok1\Desktop\chess v117\chess v116\chess\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\s.alok1\Desktop\chess v117\chess v116\chess\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\chess\chess v117\chess v117\chess v116\chess\bin\Debug\chess.exe.config
+G:\chess\chess v117\chess v117\chess v116\chess\obj\x86\Debug\Interop.MediaPlayer.dll
+G:\chess\chess v117\chess v117\chess v116\chess\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+G:\chess\chess v117\chess v117\chess v116\chess\obj\x86\Debug\Interop.WMPLib.dll
+G:\chess\chess v117\chess v117\chess v116\chess\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+G:\chess\chess v117\chess v117\chess v116\chess\obj\x86\Debug\chess.csproj.ResolveComReference.cache
+G:\chess\chess v117\chess v117\chess v116\chess\obj\x86\Debug\chess.exe
+G:\chess\chess v117\chess v117\chess v116\chess\obj\x86\Debug\chess.pdb
+G:\chess\chess v117\chess v117\chess v116\chess\bin\Debug\chess.exe
+G:\chess\chess v117\chess v117\chess v116\chess\bin\Debug\chess.pdb
+G:\chess\chess v117\chess v117\chess v116\chess\bin\Debug\Interop.ShockwaveFlashObjects.dll
+G:\chess\chess v117\chess v117\chess v116\chess\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+G:\chess\chess v117\chess v117\chess v116\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+G:\chess\chess v117\chess v117\chess v116\chess\obj\x86\Debug\chess.Form1.resources
+G:\chess\chess v117\chess v117\chess v116\chess\obj\x86\Debug\chess.Form10.resources
+G:\chess\chess v117\chess v117\chess v116\chess\obj\x86\Debug\chess.Form11.resources
+G:\chess\chess v117\chess v117\chess v116\chess\obj\x86\Debug\chess.Form12.resources
+G:\chess\chess v117\chess v117\chess v116\chess\obj\x86\Debug\chess.Form13.resources
+G:\chess\chess v117\chess v117\chess v116\chess\obj\x86\Debug\chess.Form2.resources
+G:\chess\chess v117\chess v117\chess v116\chess\obj\x86\Debug\chess.Form4.resources
+G:\chess\chess v117\chess v117\chess v116\chess\obj\x86\Debug\chess.Form5.resources
+G:\chess\chess v117\chess v117\chess v116\chess\obj\x86\Debug\chess.Form8.resources
+G:\chess\chess v117\chess v117\chess v116\chess\obj\x86\Debug\chess.Form9.resources
+G:\chess\chess v117\chess v117\chess v116\chess\obj\x86\Debug\chess.Properties.Resources.resources
+G:\chess\chess v117\chess v117\chess v116\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+H:\chess\chess v117\chess v117\chess v116\chess\bin\Debug\chess.exe.config
+H:\chess\chess v117\chess v117\chess v116\chess\obj\x86\Debug\Interop.MediaPlayer.dll
+H:\chess\chess v117\chess v117\chess v116\chess\obj\x86\Debug\Interop.WMPLib.dll
+H:\chess\chess v117\chess v117\chess v116\chess\obj\x86\Debug\chess.csproj.ResolveComReference.cache
+H:\chess\chess v117\chess v117\chess v116\chess\obj\x86\Debug\chess.exe
+H:\chess\chess v117\chess v117\chess v116\chess\obj\x86\Debug\chess.pdb
+H:\chess\chess v117\chess v117\chess v116\chess\bin\Debug\chess.exe
+H:\chess\chess v117\chess v117\chess v116\chess\bin\Debug\chess.pdb
+H:\chess\chess v117\chess v117\chess v116\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+H:\chess\chess v117\chess v117\chess v116\chess\obj\x86\Debug\chess.Form1.resources
+H:\chess\chess v117\chess v117\chess v116\chess\obj\x86\Debug\chess.Form10.resources
+H:\chess\chess v117\chess v117\chess v116\chess\obj\x86\Debug\chess.Form11.resources
+H:\chess\chess v117\chess v117\chess v116\chess\obj\x86\Debug\chess.Form12.resources
+H:\chess\chess v117\chess v117\chess v116\chess\obj\x86\Debug\chess.Form13.resources
+H:\chess\chess v117\chess v117\chess v116\chess\obj\x86\Debug\chess.Form2.resources
+H:\chess\chess v117\chess v117\chess v116\chess\obj\x86\Debug\chess.Form4.resources
+H:\chess\chess v117\chess v117\chess v116\chess\obj\x86\Debug\chess.Form5.resources
+H:\chess\chess v117\chess v117\chess v116\chess\obj\x86\Debug\chess.Form8.resources
+H:\chess\chess v117\chess v117\chess v116\chess\obj\x86\Debug\chess.Form9.resources
+H:\chess\chess v117\chess v117\chess v116\chess\obj\x86\Debug\chess.Properties.Resources.resources
+H:\chess\chess v117\chess v117\chess v116\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\s.alok1\Desktop\chess v118\chess v118\chess v117\chess v116\chess\bin\Debug\chess.exe.config
+C:\Users\s.alok1\Desktop\chess v118\chess v118\chess v117\chess v116\chess\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\s.alok1\Desktop\chess v118\chess v118\chess v117\chess v116\chess\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\s.alok1\Desktop\chess v118\chess v118\chess v117\chess v116\chess\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\s.alok1\Desktop\chess v118\chess v118\chess v117\chess v116\chess\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\s.alok1\Desktop\chess v118\chess v118\chess v117\chess v116\chess\obj\x86\Debug\chess.csproj.ResolveComReference.cache
+C:\Users\s.alok1\Desktop\chess v118\chess v118\chess v117\chess v116\chess\obj\x86\Debug\chess.exe
+C:\Users\s.alok1\Desktop\chess v118\chess v118\chess v117\chess v116\chess\obj\x86\Debug\chess.pdb
+C:\Users\s.alok1\Desktop\chess v118\chess v118\chess v117\chess v116\chess\bin\Debug\chess.exe
+C:\Users\s.alok1\Desktop\chess v118\chess v118\chess v117\chess v116\chess\bin\Debug\chess.pdb
+C:\Users\s.alok1\Desktop\chess v118\chess v118\chess v117\chess v116\chess\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\s.alok1\Desktop\chess v118\chess v118\chess v117\chess v116\chess\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\s.alok1\Desktop\chess v118\chess v118\chess v117\chess v116\chess\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\s.alok1\Desktop\chess v118\chess v118\chess v117\chess v116\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\s.alok1\Desktop\chess v118\chess v118\chess v117\chess v116\chess\obj\x86\Debug\chess.Form10.resources
+C:\Users\s.alok1\Desktop\chess v118\chess v118\chess v117\chess v116\chess\obj\x86\Debug\chess.Form11.resources
+C:\Users\s.alok1\Desktop\chess v118\chess v118\chess v117\chess v116\chess\obj\x86\Debug\chess.Form12.resources
+C:\Users\s.alok1\Desktop\chess v118\chess v118\chess v117\chess v116\chess\obj\x86\Debug\chess.Form13.resources
+C:\Users\s.alok1\Desktop\chess v118\chess v118\chess v117\chess v116\chess\obj\x86\Debug\chess.Form2.resources
+C:\Users\s.alok1\Desktop\chess v118\chess v118\chess v117\chess v116\chess\obj\x86\Debug\chess.Form4.resources
+C:\Users\s.alok1\Desktop\chess v118\chess v118\chess v117\chess v116\chess\obj\x86\Debug\chess.Form5.resources
+C:\Users\s.alok1\Desktop\chess v118\chess v118\chess v117\chess v116\chess\obj\x86\Debug\chess.Form8.resources
+C:\Users\s.alok1\Desktop\chess v118\chess v118\chess v117\chess v116\chess\obj\x86\Debug\chess.Form9.resources
+C:\Users\s.alok1\Desktop\chess v118\chess v118\chess v117\chess v116\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\s.alok1\Desktop\chess v118\chess v118\chess v117\chess v116\chess\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\s.alok1\Desktop\chess v118\chess v118\chess v117\chess v116\chess\obj\x86\Debug\GenerateResource.write.1.tlog
